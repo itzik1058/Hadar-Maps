@@ -1,0 +1,162 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_SportG" : "FID_SportG",
+    "OBJECTID_1" : "OBJECTID_1",
+    "NAME_" : "שם",
+    "NUM_" : "NUM_"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_SportG",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_SportG"
+    },
+    {
+      "name" : "OBJECTID_1",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID_1"
+    },
+    {
+      "name" : "NAME_",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם",
+      "length" : 50
+    },
+    {
+      "name" : "NUM_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "NUM_"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "הרב קניאל- הרב קניאל 11",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.002206513000033,
+        "y" : 32.797692641000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "הבעל שם טוב- הבעש\"ט 27",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.996112911000068,
+        "y" : 32.80234676200007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "רמב\"ן- רמב\"ן 14",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.995518512000046,
+        "y" : 32.80365921300006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "בפועל",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.996850494000057,
+        "y" : 32.803876674000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "החשמונאים- החשמונאים 40",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.988454019000073,
+        "y" : 32.808215990000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "בית שערים- בית שערים 6",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.989719200000025,
+        "y" : 32.814125628000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "עבאס - עבאס 56",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.984279825000044,
+        "y" : 32.817638540000075
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "ObjectID" : "ObjectID",
+    "Loc_name" : "Loc_name",
+    "USER_Address" : "כתובת",
+    "USER_City" : "עיר",
+    "USER_PlaceName" : "שם המקום"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "ObjectID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "ObjectID"
+    },
+    {
+      "name" : "Loc_name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Loc_name",
+      "length" : 20
+    },
+    {
+      "name" : "USER_Address",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 255
+    },
+    {
+      "name" : "USER_City",
+      "type" : "esriFieldTypeString",
+      "alias" : "עיר",
+      "length" : 255
+    },
+    {
+      "name" : "USER_PlaceName",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם המקום",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "מסדה 29",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "תחנת הכרמלית מסדה"
+      },
+      "geometry" : {
+        "x" : 34.992550022000046,
+        "y" : 32.809600016000047
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "בלפור 23",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "הדריון"
+      },
+      "geometry" : {
+        "x" : 34.99530528300005,
+        "y" : 32.80849743400006
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "הנביאים 22",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "תחנת הכרמלית הנביאים"
+      },
+      "geometry" : {
+        "x" : 34.995119998000064,
+        "y" : 32.812779985000077
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "הנביאים 1",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "תחנת הכרמלית הדר-עירייה"
+      },
+      "geometry" : {
+        "x" : 34.997310021000033,
+        "y" : 32.814519984000071
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "קסל 3",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "ביה\"ס היסודי הריאלי"
+      },
+      "geometry" : {
+        "x" : 34.995447649000027,
+        "y" : 32.810632390000023
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "שמריהו לוין 25",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "מדעטק"
+      },
+      "geometry" : {
+        "x" : 34.996379184000034,
+        "y" : 32.810205192000069
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "סירקין 30",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "שוק תלפיות"
+      },
+      "geometry" : {
+        "x" : 35.001452037000035,
+        "y" : 32.80905272800004
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "שמריהו לוין 15",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "ביה\"ס התיכון הריאלי"
+      },
+      "geometry" : {
+        "x" : 34.996814967000034,
+        "y" : 32.811516400000073
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "טבריה 15",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "הבית הקהילתי"
+      },
+      "geometry" : {
+        "x" : 34.990705927000079,
+        "y" : 32.811228578000055
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "כורי 2",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "מגדל הנביאים"
+      },
+      "geometry" : {
+        "x" : 34.997433173000047,
+        "y" : 32.815296262000061
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "חסן שוקרי 14",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "עיריית חיפה"
+      },
+      "geometry" : {
+        "x" : 34.999151085000051,
+        "y" : 32.812688836000063
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "ירושלים 29",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "מתנ\"ס הדר"
+      },
+      "geometry" : {
+        "x" : 34.999292401000048,
+        "y" : 32.80760979400003
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "USER_Address" : "אחד העם 6-8",
+        "USER_City" : "חיפה",
+        "USER_PlaceName" : "מגדל אחד העם"
+      },
+      "geometry" : {
+        "x" : 34.995804249000059,
+        "y" : 32.811802017000048
+      }
+    }
+  ]
+}

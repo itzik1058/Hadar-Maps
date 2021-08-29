@@ -1,0 +1,342 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_play_g" : "FID_play_g",
+    "OBJECTID_1" : "OBJECTID_1",
+    "NAME_" : "שם",
+    "NUM_" : "NUM_"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_play_g",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_play_g"
+    },
+    {
+      "name" : "OBJECTID_1",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID_1"
+    },
+    {
+      "name" : "NAME_",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם",
+      "length" : 50
+    },
+    {
+      "name" : "NUM_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "NUM_"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "קניאל הרב יהושע",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.000925958000039,
+        "y" : 32.79729315700007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "מקור ברוך",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.003150765000044,
+        "y" : 32.798406878000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "מקור ברוך",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.003228855000032,
+        "y" : 32.798597637000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "לאון בלום",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.000335265000047,
+        "y" : 32.800501018000034
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "מיכאל",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.003218766000032,
+        "y" : 32.800682694000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "רבי עקיבא",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.000865242000032,
+        "y" : 32.801354857000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "לאון בלום",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.998909811000033,
+        "y" : 32.801853094000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "רמב\"ן",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.99558684200008,
+        "y" : 32.802868881000052
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "הפועל",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.995813829000042,
+        "y" : 32.803998957000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "גן שטרוק",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.999815143000035,
+        "y" : 32.80444774800003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "מונטיפיורי",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.993867805000036,
+        "y" : 32.805306176000045
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "יוסף",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.997683170000073,
+        "y" : 32.806939870000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "נורדאו",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.999906291000059,
+        "y" : 32.807081266000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "מונטיפיורי",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.991875851000032,
+        "y" : 32.807593303000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "החשמונאים",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.988575428000047,
+        "y" : 32.808077925000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "גן נתן",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.994986775000029,
+        "y" : 32.809050673000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "גן הזכרון",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.999290565000024,
+        "y" : 32.814059191000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "גן נופי",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.983765371000061,
+        "y" : 32.816765898000028
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_play_g" : null,
+        "OBJECTID_1" : null,
+        "NAME_" : "עבאס",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.984179649000055,
+        "y" : 32.817503314000078
+      }
+    }
+  ]
+}

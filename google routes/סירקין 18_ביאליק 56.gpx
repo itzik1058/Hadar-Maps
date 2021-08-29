@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/סירקין 18, חיפה‭/ביאליק 56, חיפה‭/@32.8106462,35.0012519,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x151dba4c2614ba6f:0xa7f3748b0e134176!2m2!1d34.9999841!2d32.8098706!1m5!1m1!1s0x151dba4c687d6a61:0xd26856682dc4b980!2m2!1d34.9983181!2d32.811233!3e2?hl=iw&hl=en</url-->
+    <time>2021-08-29T12:48:13Z</time>
+  </metadata>
+  <wpt lat="32.8098706" lon="34.9999841">
+    <name>סירקין 18</name>
+    <desc>Sirkin St 18, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.811233" lon="34.9983181">
+    <name>ביאליק 56</name>
+    <desc>Bialik St 56, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>סירקין 18 to ביאליק 56</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.8099374" lon="35.0000382">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.80995" lon="35.00001">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.80999" lon="34.99996">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.81003" lon="34.99991">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.81006" lon="34.99988">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.81012" lon="34.99983">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.81019" lon="34.99978">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.8103" lon="34.99976">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.81036" lon="34.99974">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.81043" lon="34.99973">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.81051" lon="34.99973">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.8105134" lon="34.9997325">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.81047" lon="34.99931">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.81044" lon="34.99909">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.8104449" lon="34.9990883">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.81077" lon="34.99906">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="32.81103" lon="34.99903">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="32.81108" lon="34.99902">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="32.81114" lon="34.99897">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="32.81127" lon="34.99883">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="32.81152" lon="34.99857">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="32.811523" lon="34.998575">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="32.81128" lon="34.99836">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="32.8112779" lon="34.9983646">
+    <name>TP024</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

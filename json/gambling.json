@@ -1,0 +1,1905 @@
+{
+  "displayFieldName" : "",
+  "hasZ" : true,
+  "hasM" : true,
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Name" : "שם",
+    "Type" : "סוג",
+    "GlobalID" : "GlobalID"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 2039,
+    "latestWkid" : 2039
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם",
+      "length" : 254
+    },
+    {
+      "name" : "Type",
+      "type" : "esriFieldTypeString",
+      "alias" : "סוג",
+      "length" : 254
+    },
+    {
+      "name" : "GlobalID",
+      "type" : "esriFieldTypeGlobalID",
+      "alias" : "GlobalID",
+      "length" : 38
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דואר משרד הרישוי",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205123.13949999958,
+        "y" : 745302.20500000007,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206780.37509999983,
+        "y" : 747446.0923999995,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "GIGIS",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 207096.20239999983,
+        "y" : 747281.37930000015,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קומיקס",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 207423.78770000022,
+        "y" : 747043.23330000043,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 207485.04839999974,
+        "y" : 747010.1986999996,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199092.95380000025,
+        "y" : 743879.77529999986,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דרגסטור לאקי",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201219.49459999986,
+        "y" : 742903.98359999992,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "לייאמי",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200291.14470000006,
+        "y" : 742588.13159999996,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200330.55939999968,
+        "y" : 747038.30140000023,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "ממתקי הנשיא",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196739.52610000037,
+        "y" : 746444.52580000088,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196337.5560999997,
+        "y" : 746502.74880000018,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200364.0449000001,
+        "y" : 745924.52480000071,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "חיפה הקטנה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199756.00600000005,
+        "y" : 745896.8805999998,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 204068.54110000003,
+        "y" : 743863.3610999994,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206686.5203999998,
+        "y" : 747092.46590000018,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "על הפינה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 207002.16050000023,
+        "y" : 746905.21470000036,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "אצל בני",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200424.54339999985,
+        "y" : 745313.11079999991,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "גראנד קניון קומה ב'",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201740.18080000021,
+        "y" : 743649.09229999967,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199004.62729999982,
+        "y" : 743308.11999999918,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199638.40419999976,
+        "y" : 747162.28830000013,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מפגש האחווה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199684.35699999984,
+        "y" : 747139.36150000058,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198750.12150000036,
+        "y" : 747269.6640000008,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "עידן הקפה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 203557.03920000046,
+        "y" : 742939.3526000008,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מרכולית עדן",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200352.37640000042,
+        "y" : 747109.71419999935,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מפגש העצמאות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200324.05190000031,
+        "y" : 747150.21529999934,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200149.84570000041,
+        "y" : 747300.29519999959,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200063.7862999998,
+        "y" : 747319.16169999912,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201435.47410000023,
+        "y" : 745076.7050999999,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199118.6146999998,
+        "y" : 748041.1986999996,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "סגס סטור",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199118.6146999998,
+        "y" : 748041.1986999996,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "אופסייד",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200083.66170000006,
+        "y" : 747192.04969999939,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200036.52390000038,
+        "y" : 747246.14090000093,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198707.24509999994,
+        "y" : 747146.18520000018,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196901.80289999954,
+        "y" : 747412.99709999934,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קיוסק על הדרך",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196938.30530000012,
+        "y" : 747458.37340000086,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196388.67190000042,
+        "y" : 747339.14200000092,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "פילצוציה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205516.50109999999,
+        "y" : 747197.17259999923,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200002.68230000045,
+        "y" : 747242.15929999948,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201298.63839999959,
+        "y" : 745229.70150000043,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קריית חיים",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206637.09350000042,
+        "y" : 747525.86079999991,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם חנות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 202063.08069999982,
+        "y" : 743948.05749999918,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קיוסק אמיר",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199136.99110000022,
+        "y" : 747053.5214000009,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מפגש הפוגולינות",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200090.06979999971,
+        "y" : 746432.10590000078,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200213.81130000018,
+        "y" : 746301.3981999997,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200223.74409999978,
+        "y" : 746169.16009999998,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200321.25999999978,
+        "y" : 746088.13399999961,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200464.5449000001,
+        "y" : 745952.14609999955,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200018.29459999967,
+        "y" : 746522.68799999915,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שם ביתן",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200060.43460000027,
+        "y" : 746669.34149999917,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199830.10319999978,
+        "y" : 746442.85400000028,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199766.76460000034,
+        "y" : 746361.97599999979,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198958.47109999973,
+        "y" : 748567.54480000027,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מזנון חוף השקט",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198958.47109999973,
+        "y" : 748567.54480000027,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "שירת הים",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198523.28220000025,
+        "y" : 748609.16850000061,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 207144.66760000028,
+        "y" : 748196.17970000021,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200141.79289999977,
+        "y" : 746234.68590000086,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200224.67870000005,
+        "y" : 746124.78600000031,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200431.70889999997,
+        "y" : 745854.60329999961,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199960.05020000041,
+        "y" : 746445.24789999984,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200624.09829999972,
+        "y" : 745617.03619999997,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "גול קפה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199662.61230000015,
+        "y" : 746478.64310000092,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "המקום של תומר",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198202.71920000017,
+        "y" : 746002.46639999934,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200650.05649999995,
+        "y" : 745935.4450000003,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "פיצוצית מורן",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199734.17449999973,
+        "y" : 747002.00809999928,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "WOW קפה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205597.71939999983,
+        "y" : 745791.91939999908,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מרכז חורב",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199102.61099999957,
+        "y" : 743354.68600000069,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205557.89780000038,
+        "y" : 747101.2388000004,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206727.78029999975,
+        "y" : 746290.75170000084,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "התחנה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206620.01460000034,
+        "y" : 746313.1157000009,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201389.11560000014,
+        "y" : 744268.01960000023,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201588.66480000038,
+        "y" : 743945.06399999931,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "האח הגדול",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 197284.1939000003,
+        "y" : 746538.47980000079,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מקסימום",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198090.84929999989,
+        "y" : 747149.68090000004,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "עפרוני",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 197913.58169999998,
+        "y" : 747267.53399999999,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198240.16779999994,
+        "y" : 746988.28370000049,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דרגסטור רמת אלון",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201528.49810000043,
+        "y" : 742090.70460000075,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מחנה דוד מרכז מסחרי",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196692.67750000022,
+        "y" : 745905.0438000001,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "עידן הקפה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 204797.23849999998,
+        "y" : 746965.05990000069,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200346.58380000014,
+        "y" : 745981.04140000045,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200517.34949999955,
+        "y" : 745884.06140000001,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "סטופמרקט",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200740.28729999997,
+        "y" : 745569.53800000064,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 197330.83669999987,
+        "y" : 747299.01820000075,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דרגסטור המגינים",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199566.39859999996,
+        "y" : 747357.19009999931,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דלפק באגד",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196434.72180000041,
+        "y" : 744476.26280000061,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "ו.י. המרת מטח",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200481.59350000042,
+        "y" : 745616.3543999996,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199329.5307,
+        "y" : 744395.01270000078,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מרכולית בגין",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199406.85319999978,
+        "y" : 742090.9514000006,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201243.2675999999,
+        "y" : 744640.2324000001,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מרכולית אקספרס",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200466.98460000008,
+        "y" : 746882.55240000039,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קיוסק יואב",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 202169.78359999973,
+        "y" : 744257.92139999941,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קניון חיפה",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196772.47250000015,
+        "y" : 743981.5103999991,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קניון קסטרא",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 197353.33899999969,
+        "y" : 743718.02339999937,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198795.41069999989,
+        "y" : 744734.15530000068,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199826.45170000009,
+        "y" : 746509.51410000026,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "בונבוניירה מרקט",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199763.45689999964,
+        "y" : 746530.62199999951,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קורנר סטור",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199623.59819999989,
+        "y" : 747638.71460000053,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199558.08040000033,
+        "y" : 747574.85480000079,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "פראש",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199438.4868999999,
+        "y" : 747295.0092999991,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "פינת המושבה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199558.73230000027,
+        "y" : 747624.33860000037,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "בית חולים בני ציון",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199602.1986999996,
+        "y" : 745675.59210000001,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קריית חיים",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205948.21530000027,
+        "y" : 748228.98159999959,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קפה בנועם",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205743.70120000001,
+        "y" : 748319.06110000052,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מפגש הסופרנוס",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205508.69400000013,
+        "y" : 748455.29020000063,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קריית חיים",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 205235.57830000017,
+        "y" : 748677.87340000086,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "דרגסטור רנאד",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196942.03050000034,
+        "y" : 748326.25280000083,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 196953.64439999964,
+        "y" : 748352.37749999948,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206699.38920000009,
+        "y" : 746156.05250000022,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "I WAY",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206876.07919999957,
+        "y" : 746400.73299999908,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 203667.46669999976,
+        "y" : 744145.87289999984,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קניון לב המפרץ",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 203742.51279999968,
+        "y" : 744266.69290000014,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 202970.47479999997,
+        "y" : 743839.14200000092,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 203077.63360000029,
+        "y" : 743846.20629999973,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "הפיצוציה",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199950.53670000006,
+        "y" : 747173.42420000024,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199174.41299999971,
+        "y" : 745599.65829999931,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199061.31340000033,
+        "y" : 745451.64629999921,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קניון האודיטוריום",
+        "Type" : "דלפק",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198971.46520000044,
+        "y" : 745406.9824000001,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "צילום המפרש",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200463.24739999976,
+        "y" : 746794.33610000089,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "הפוך הפוך",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200472.17050000001,
+        "y" : 746769.08850000054,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199649.68570000026,
+        "y" : 746945.51630000025,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206260.70559999999,
+        "y" : 748273.30949999951,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206266.14279999956,
+        "y" : 748559.19940000027,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201614.95999999996,
+        "y" : 743180.13230000064,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מפגש סיני",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201610.20380000025,
+        "y" : 743155.69800000079,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199058.08490000013,
+        "y" : 744010.53490000032,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מוריה אקספרס",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198812.84860000014,
+        "y" : 745249.67400000058,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206285.66559999995,
+        "y" : 748911.40190000087,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קופת חולים לין",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 198907.7620000001,
+        "y" : 747797.29160000011,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "מישמש",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 203922.21239999961,
+        "y" : 744229.8339000009,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201833.96939999983,
+        "y" : 743089.22199999914,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 201761.13159999996,
+        "y" : 743142.42970000021,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : " ",
+        "Type" : "ביתן",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 200011.37909999955,
+        "y" : 746320.3144000005,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "קריית חיים",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 206861.94979999959,
+        "y" : 747389.5719000008,
+        "z" : 0,
+        "m" : null
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "Name" : "סנדביץ אקסטרא",
+        "Type" : "חנות",
+        "GlobalID" : null
+      },
+      "geometry" : {
+        "x" : 199117.31940000039,
+        "y" : 747861.99239999987,
+        "z" : 0,
+        "m" : null
+      }
+    }
+  ]
+}

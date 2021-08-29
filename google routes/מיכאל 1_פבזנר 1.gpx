@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Google, Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/מיכאל 1, חיפה‭/פבזנר 1, חיפה‭/@32.8078381,35.0009603,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x151dba51e2af01f5:0xefb8217ea72589cd!2m2!1d35.0009816!2d32.8063585!1m5!1m1!1s0x151dba4d11990b21:0x74ecfe7827b473ab!2m2!1d34.9966301!2d32.8095595!3e2?hl=en</url-->
+    <time>2021-08-28T18:02:12Z</time>
+  </metadata>
+  <wpt lat="32.8063585" lon="35.0009816">
+    <name>מיכאל 1</name>
+    <desc>Michael St 1, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.8095595" lon="34.9966301">
+    <name>פבזנר 1</name>
+    <desc>Pevzner St 1, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>מיכאל 1 to פבזנר 1</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.8063549" lon="35.0007346">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.80625" lon="35.00074">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.8062512" lon="35.0007368">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.80639" lon="35.0005">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.80659" lon="35.00015">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.8065865" lon="35.0001456">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.80645" lon="35.00001">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.80638" lon="34.99995">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.80631" lon="34.99989">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.80626" lon="34.99985">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.80622" lon="34.99983">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.80612" lon="34.99978">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.8061168" lon="34.9997772">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.80626" lon="34.99966">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.80678" lon="34.99924">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.8067778" lon="34.9992352">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="32.8067" lon="34.9991">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="32.806695" lon="34.999097">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="32.80684" lon="34.99897">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="32.80696" lon="34.99886">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="32.80748" lon="34.99847">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="32.80833" lon="34.99783">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="32.80861" lon="34.99755">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="32.80875" lon="34.99738">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="32.80889" lon="34.99723">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="32.80917" lon="34.9969">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="32.80927" lon="34.99679">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="32.80947" lon="34.99656">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="32.8094727" lon="34.9965616">
+    <name>TP029</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

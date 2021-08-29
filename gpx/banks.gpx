@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<gpx creator="Esri" version="1.1" xalan="http://xml.apache.org/xalan" xmlns="http://www.topografix.com/GPX/1/1" xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <wpt lat="32.81257001800003" lon="34.994880024000054">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81339002000004" lon="34.99577001400007">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.811770007000064" lon="34.99728001400007">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80785000100008" lon="35.001020019000066">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80801001100008" lon="35.00148001800005">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+</gpx>

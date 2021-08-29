@@ -1,0 +1,95 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_SportG" : "FID_SportG",
+    "OBJECTID_1" : "OBJECTID_1",
+    "OBJECTID" : "OBJECTID",
+    "NAME_" : "שם",
+    "NUM_" : "NUM_"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_SportG",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_SportG"
+    },
+    {
+      "name" : "OBJECTID_1",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID_1"
+    },
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "NAME_",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם",
+      "length" : 50
+    },
+    {
+      "name" : "NUM_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "NUM_"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "OBJECTID" : null,
+        "NAME_" : "בגן בנימין- מדרחוב נורדאו",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 35.000220843000079,
+        "y" : 32.807004430000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_SportG" : null,
+        "OBJECTID_1" : null,
+        "OBJECTID" : null,
+        "NAME_" : "אלמותנבי",
+        "NUM_" : null
+      },
+      "geometry" : {
+        "x" : 34.983721751000076,
+        "y" : 32.816830680000066
+      }
+    }
+  ]
+}

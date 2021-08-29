@@ -1,0 +1,1994 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_Recycl" : "FID_Recycl",
+    "F2" : "כתובת",
+    "F3" : "F3",
+    "F4" : "סוג"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_Recycl",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Recycl"
+    },
+    {
+      "name" : "F2",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 254
+    },
+    {
+      "name" : "F3",
+      "type" : "esriFieldTypeString",
+      "alias" : "F3",
+      "length" : 254
+    },
+    {
+      "name" : "F4",
+      "type" : "esriFieldTypeString",
+      "alias" : "סוג",
+      "length" : 254
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11 מעונות גאולה בעלייה",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל מול 11",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11 מעונות גאולה",
+        "F3" : null,
+        "F4" : "מרכז"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11 - מעונות גאולה",
+        "F3" : null,
+        "F4" : "בגדים"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11 מעונות גאולה",
+        "F3" : null,
+        "F4" : "אלקטרוניקה"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל מול 11",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרב קניאל 11 מעונות גאולה",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.000535873000047,
+        "y" : 32.797571765000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום בין 44 ל-46",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000897710000061,
+        "y" : 32.798930574000053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום 46 - 44",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 35.000897710000061,
+        "y" : 32.798930574000053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום  44-46",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.000897710000061,
+        "y" : 32.798930574000053
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מקור ברוך 10",
+        "F3" : null,
+        "F4" : "גניזה"
+      },
+      "geometry" : {
+        "x" : 35.003115584000057,
+        "y" : 32.798967366000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מקור ברוך 10",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 35.003115584000057,
+        "y" : 32.798967366000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "אהבת ישראל 10",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.00406309300007,
+        "y" : 32.79989703900003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חנה סנש 57",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000662033000026,
+        "y" : 32.799964850000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חנה סנש מול 41",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.999166195000043,
+        "y" : 32.800490618000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חנה סנש 27",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997603484000024,
+        "y" : 32.800765588000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חנה סנש 27 ליד מכולות האשפה",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.997603484000024,
+        "y" : 32.800765588000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום 29",
+        "F3" : null,
+        "F4" : "בגדים"
+      },
+      "geometry" : {
+        "x" : 34.999683925000056,
+        "y" : 32.800814356000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בעש\"ט מול 41",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997317549000059,
+        "y" : 32.801194767000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גאולה 47",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.002253731000053,
+        "y" : 32.80132614200005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רבי עקיבא 1",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.001404961000048,
+        "y" : 32.801466368000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רבי עקיבא 1",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 35.001404961000048,
+        "y" : 32.801466368000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בעש\"ט 33",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.99685958200007,
+        "y" : 32.801732318000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום 64",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.998182842000062,
+        "y" : 32.801852340000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לאון בלום 64",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.998182842000062,
+        "y" : 32.801852340000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הנגב 48",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.003595302000065,
+        "y" : 32.801916799000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חנה סנש 17",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.996059224000078,
+        "y" : 32.801935044000061
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גאולה בין 35 ל-37",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.001168376000066,
+        "y" : 32.802359167000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גאולה בין 35 ל-37",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.001168376000066,
+        "y" : 32.802359167000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רמב\"ן מול 29",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997448396000038,
+        "y" : 32.802354415000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רמב\"ן 29",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.997448396000038,
+        "y" : 32.802354415000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "איינשטיין 30",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.001154351000025,
+        "y" : 32.802519876000076
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בעש\"ט 16",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.994607228000064,
+        "y" : 32.802617723000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בעש\"ט 16",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.994607228000064,
+        "y" : 32.802617723000026
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רמב\"ן 23",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.996157141000026,
+        "y" : 32.803048035000074
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גאולה 15",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.999413016000062,
+        "y" : 32.803062832000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חרמון 26",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.002131838000025,
+        "y" : 32.803143624000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רמב\"ן מול 19",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.99622895400006,
+        "y" : 32.80313493500006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רמב\"ן 19 א",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.99622895400006,
+        "y" : 32.80313493500006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "איינשטיין 13 פינת קורצ'ק",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000773184000025,
+        "y" : 32.803291255000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "איינשטיין 14",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.999617435000062,
+        "y" : 32.803334346000042
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רבי עקיבא 39",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997697815000038,
+        "y" : 32.803352434000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מיכאל 39",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.002951880000069,
+        "y" : 32.80339106200006
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מיכאל 30",
+        "F3" : null,
+        "F4" : "גניזה"
+      },
+      "geometry" : {
+        "x" : 35.002674985000056,
+        "y" : 32.803553930000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חרמון 20",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.001704608000068,
+        "y" : 32.803642384000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בצלאל מול 10",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.999447605000057,
+        "y" : 32.803740142000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בצלאל 10-12",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.999447605000057,
+        "y" : 32.803740142000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בצלאל 10",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.999447605000057,
+        "y" : 32.803740142000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חרמון 18",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.001510505000056,
+        "y" : 32.803885089000062
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הפועל 3",
+        "F3" : null,
+        "F4" : "גניזה"
+      },
+      "geometry" : {
+        "x" : 34.998044122000067,
+        "y" : 32.804295978000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רש\"י פינת רמב\"ן",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.994422813000028,
+        "y" : 32.804447535000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רש\"י פינת רמב\"ן",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.994422813000028,
+        "y" : 32.804447535000065
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הפועל 12",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997073470000032,
+        "y" : 32.804556356000035
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "פבזנר 64",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.999946193000028,
+        "y" : 32.805095794000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בר גיורא 47 פינת רש\"י",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.99680559400008,
+        "y" : 32.805225859000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הס פינת רש\"י",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.995342729000072,
+        "y" : 32.805311736000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "רש\"י 4",
+        "F3" : null,
+        "F4" : "גניזה"
+      },
+      "geometry" : {
+        "x" : 34.995874615000048,
+        "y" : 32.805335362000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 38",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.998423786000046,
+        "y" : 32.805356412000037
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בר גיורא 45",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.996763501000032,
+        "y" : 32.805385509000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יוסף 40",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.998899514000072,
+        "y" : 32.805459964000079
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הס 49",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.995311020000031,
+        "y" : 32.805628171000023
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "פבזנר 39",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000144832000046,
+        "y" : 32.805841101000055
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "פבזנר  54",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.99926862500007,
+        "y" : 32.806188766000048
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרצוג 5",
+        "F3" : null,
+        "F4" : "גניזה"
+      },
+      "geometry" : {
+        "x" : 35.001677137000058,
+        "y" : 32.806413921000058
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב מול 56",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997076837000066,
+        "y" : 32.806503045000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 6",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.000560970000038,
+        "y" : 32.806838687000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזורוב 6",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 35.000560970000038,
+        "y" : 32.806838687000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 כלוב ראשון",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 כלוב שני",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 - מרכז מחזור עירוני הדר",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 מרכז מחזור עירוני לב ח\"ש",
+        "F3" : null,
+        "F4" : "מרכז"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 מרככז עירוני",
+        "F3" : null,
+        "F4" : "בגדים"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7 במשטח מחזור עירוני",
+        "F3" : null,
+        "F4" : "אלקטרוניקה"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יל\"ג 7",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 35.002818288000071,
+        "y" : 32.807039931000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יוסף 18 ליד החנויות",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.997571341000025,
+        "y" : 32.80710289700005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 72",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.995832621000034,
+        "y" : 32.807156472000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 72",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.995832621000034,
+        "y" : 32.807156472000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הרצל 54",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 35.001230063000037,
+        "y" : 32.807192933000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 69",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.994621962000053,
+        "y" : 32.807272770000054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בר גיורא 5",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.993124578000049,
+        "y" : 32.807679786000051
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הס 18",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.991476645000034,
+        "y" : 32.807683600000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גולומב 35 א",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990394973000036,
+        "y" : 32.807891725000047
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ירושלים 22",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.998628654000072,
+        "y" : 32.807916313000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ירושלים 22",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.998628654000072,
+        "y" : 32.807916313000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מלצ'ט מול 6",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.996233227000062,
+        "y" : 32.80800203900003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מלצ'ט  6",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.996233227000062,
+        "y" : 32.80800203900003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הס  13",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.991631845000029,
+        "y" : 32.808034314000054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 89 פינת בר גיורא 2",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.992502155000068,
+        "y" : 32.808036388000062
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "פבזנר 22",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997801700000025,
+        "y" : 32.808210363000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "סירקין 40 שוק תלפיות תחתון",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 35.002856399000052,
+        "y" : 32.808416328000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ארלוזרוב 104",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.992023771000049,
+        "y" : 32.808657255000071
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ברכה חבס 7 - 5",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.988800849000029,
+        "y" : 32.80866401000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הלל 21",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.993014448000054,
+        "y" : 32.808962091000069
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הס 2 בסמוך לאשפה",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.990164863000075,
+        "y" : 32.80916617400004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בן יהודה 1",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.994578022000042,
+        "y" : 32.809344913000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ברכה חבס 11",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.988182082000037,
+        "y" : 32.809562090000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מסדה 20",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.993502359000047,
+        "y" : 32.809705674000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מסדה 20 סמוך לבקבוקים",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.993502359000047,
+        "y" : 32.809705674000043
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בלפור 5 פינת נורדאו",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.997594234000076,
+        "y" : 32.810207133000063
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הלל 47",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990588793000029,
+        "y" : 32.810480561000077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "שמריהו לוין 30",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.995830022000064,
+        "y" : 32.810708969000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "שמריהו לוין מול 30- מדעטק",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.995830022000064,
+        "y" : 32.810708969000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "שמריהו לוין 30 בכניסה למדעטק",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.995830022000064,
+        "y" : 32.810708969000075
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הלל 53",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990029464000031,
+        "y" : 32.811081499000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "טבריה מול 17",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.990546860000052,
+        "y" : 32.811387215000025
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גולומב 16",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.987627977000045,
+        "y" : 32.811442875000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גולומב 16",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.987627977000045,
+        "y" : 32.811442875000068
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "מדרגות צפת פינת הרצליה",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.993949592000035,
+        "y" : 32.81148668700007
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "טבריה 16",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990889630000027,
+        "y" : 32.811491351000029
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בן יהודה 35",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.992129067000064,
+        "y" : 32.81167646800003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "בן יהודה 35",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.992129067000064,
+        "y" : 32.81167646800003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "גדעון 5",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.992439949000072,
+        "y" : 32.811961521000057
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הנביאים 30 סמוך לסופר",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.994384308000065,
+        "y" : 32.812033316000054
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "אחד העם 16 פינת הנביאים",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.995020426000053,
+        "y" : 32.812262666000038
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "ביאליק 4",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.999117077000051,
+        "y" : 32.812401879000049
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "פועה 2 פינת הציונות",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990401043000077,
+        "y" : 32.812538170000039
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "שבתאי לוי מול 7",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.994210740000028,
+        "y" : 32.813148958000056
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "לבונטין 24 מימין לעץ",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.992764633000036,
+        "y" : 32.814483132000078
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "שדרות הציונות 84",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.985568843000067,
+        "y" : 32.814876552000044
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "יבנה 3",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.99677435600006,
+        "y" : 32.814946020000036
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "עבאס 7",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.990080134000038,
+        "y" : 32.815080784000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "עבאס 7",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.990080134000038,
+        "y" : 32.815080784000031
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "חורי 7",
+        "F3" : null,
+        "F4" : "קרטון"
+      },
+      "geometry" : {
+        "x" : 34.996707836000041,
+        "y" : 32.815862065000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "עבאס 58",
+        "F3" : null,
+        "F4" : "בקבוקים"
+      },
+      "geometry" : {
+        "x" : 34.984183539000071,
+        "y" : 32.817489521000027
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הבישוף חג'אר 2 כיכר עבאס",
+        "F3" : null,
+        "F4" : "זכוכית"
+      },
+      "geometry" : {
+        "x" : 34.98243829900008,
+        "y" : 32.818210945000033
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Recycl" : null,
+        "F2" : "הבישוף חג'אר 2 כיכר עבאס",
+        "F3" : null,
+        "F4" : "עיתון"
+      },
+      "geometry" : {
+        "x" : 34.98243829900008,
+        "y" : 32.818210945000033
+      }
+    }
+  ]
+}

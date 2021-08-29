@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/אושה 8, חיפה‭/חיים וייצמן 1, חיפה‭/@32.807955,35.000602,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x151dba528255c767:0x20887a5aeb1e26af!2m2!1d34.9970891!2d32.8075887!1m5!1m1!1s0x151dba4ddad56de1:0xeda235ccdde1d1ce!2m2!1d34.9997376!2d32.8085843!3e2?hl=iw&hl=en</url-->
+    <time>2021-08-29T12:58:45Z</time>
+  </metadata>
+  <wpt lat="32.8075887" lon="34.9970891">
+    <name>אושה 8</name>
+    <desc>Usha St 8, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.8085843" lon="34.9997376">
+    <name>חיים וייצמן 1</name>
+    <desc>Khayim Weizman St 1, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>אושה 8 to חיים וייצמן 1</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.8075887" lon="34.9970891">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.80763" lon="34.99713">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.8076256" lon="34.9971332">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.80753" lon="34.99734">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.80751" lon="34.99739">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.80694" lon="34.99784">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.806936" lon="34.997842">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.80719" lon="34.99814">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.80732" lon="34.99829">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.80748" lon="34.99847">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.80768" lon="34.99868">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.80786" lon="34.9989">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.8083" lon="34.99936">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.80854" lon="34.99968">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.80858" lon="34.99974">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.8085843" lon="34.9997376">
+    <name>TP016</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

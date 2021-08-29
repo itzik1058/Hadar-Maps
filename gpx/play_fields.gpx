@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<gpx creator="Esri" version="1.1" xalan="http://xml.apache.org/xalan" xmlns="http://www.topografix.com/GPX/1/1" xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <wpt lat="32.79729315700007" lon="35.00092595800004">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.79840687800004" lon="35.00315076500004">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.79859763700006" lon="35.00322885500003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.800501018000034" lon="35.00033526500005">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.800682694000045" lon="35.00321876600003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.801354857000035" lon="35.00086524200003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80185309400002" lon="34.99890981100003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80286888100005" lon="34.99558684200008">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80399895700003" lon="34.99581382900004">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80444774800003" lon="34.999815143000035">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.805306176000045" lon="34.993867805000036">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.806939870000065" lon="34.99768317000007">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80708126600007" lon="34.99990629100006">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80759330300003" lon="34.99187585100003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80807792500008" lon="34.98857542800005">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80905067300006" lon="34.99498677500003">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81405919100007" lon="34.999290565000024">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81676589800003" lon="34.98376537100006">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81750331400008" lon="34.984179649000055">
+    <ele> </ele>
+    <name> </name>
+    <desc> </desc>
+  </wpt>
+</gpx>

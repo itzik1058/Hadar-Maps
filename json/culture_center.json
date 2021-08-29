@@ -1,0 +1,152 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "ObjectID" : "ObjectID",
+    "Loc_name" : "Loc_name",
+    "Status" : "Status",
+    "USER_Type" : "Type",
+    "USER_Name" : "שם",
+    "USER_Address" : "כתובת",
+    "USER_City" : "עיר"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "ObjectID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "ObjectID"
+    },
+    {
+      "name" : "Loc_name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Loc_name",
+      "length" : 20
+    },
+    {
+      "name" : "Status",
+      "type" : "esriFieldTypeString",
+      "alias" : "Status",
+      "length" : 1
+    },
+    {
+      "name" : "USER_Type",
+      "type" : "esriFieldTypeString",
+      "alias" : "Type",
+      "length" : 255
+    },
+    {
+      "name" : "USER_Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "שם",
+      "length" : 255
+    },
+    {
+      "name" : "USER_Address",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 255
+    },
+    {
+      "name" : "USER_City",
+      "type" : "esriFieldTypeString",
+      "alias" : "עיר",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "מרכז נוער עבאס",
+        "USER_Address" : "עבאס 60",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 34.983950022000045,
+        "y" : 32.817669987000045
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "מועדון אתנחתא - ויזניץ",
+        "USER_Address" : "השילוח 1",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 35.00014000300007,
+        "y" : 32.804270006000024
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "מתנ''ס ביתנו",
+        "USER_Address" : "ירושלים 29",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 34.999330046000068,
+        "y" : 32.807621936000032
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "מתנ''ס טבריה",
+        "USER_Address" : "טבריה 15",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 34.990701369000078,
+        "y" : 32.811247791000028
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "בית הקהילות לקהילה הלהטבית",
+        "USER_Address" : "קסל 6 ",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 34.99500015700005,
+        "y" : 32.810190797000075
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Loc_name" : null,
+        "Status" : null,
+        "USER_Type" : null,
+        "USER_Name" : "מרכז תרבות ספורט- שלוחת מתנ\"ס הדר",
+        "USER_Address" : "בית\"ר 8",
+        "USER_City" : "חיפה"
+      },
+      "geometry" : {
+        "x" : 35.000460024000063,
+        "y" : 32.804320004000033
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Google, Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/הלל 1, חיפה‭/ירושלים 19, חיפה‭/@32.8083711,34.999141,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x151dba52ac3118df:0x1d071391219a51d9!2m2!1d34.9950019!2d32.8078094!1m5!1m1!1s0x151dba4dbe204723:0xd0bdd71c17af6637!2m2!1d34.9986307!2d32.8083789!3e2?hl=iw&hl=en</url-->
+    <time>2021-08-29T12:47:27Z</time>
+  </metadata>
+  <wpt lat="32.8078094" lon="34.9950019">
+    <name>הלל 1</name>
+    <desc>Hillel St 1, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.8083789" lon="34.9986307">
+    <name>ירושלים 19</name>
+    <desc>Yerushalayim St 19, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>הלל 1 to ירושלים 19</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.8078806" lon="34.9950435">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.80788" lon="34.99505">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.80781" lon="34.99522">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.8078059" lon="34.9952246">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.80795" lon="34.99529">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.80812" lon="34.99537">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.80823" lon="34.9954">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.80829" lon="34.99544">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.80842" lon="34.99553">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.80854" lon="34.9956">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.80857" lon="34.99563">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.80888" lon="34.9958">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.80914" lon="34.99594">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.80924" lon="34.99602">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.80934" lon="34.99613">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.80939" lon="34.99618">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="32.80946" lon="34.99627">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="32.80957" lon="34.99645">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="32.80993" lon="34.99706">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="32.80998" lon="34.99716">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="32.8099849" lon="34.9971553">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="32.80945" lon="34.99761">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="32.80916" lon="34.99785">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="32.80897" lon="34.998">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="32.80832" lon="34.99853">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="32.8083209" lon="34.9985287">
+    <name>TP026</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

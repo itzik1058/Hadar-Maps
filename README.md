@@ -1,0 +1,1 @@
+Execute the notebook hadar_maps to construct a graph (gml file) which can then be put in web/src. Run web/service.py for the web server.

@@ -1,0 +1,120 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_Librar" : "FID_Librar",
+    "OBJECTID" : "OBJECTID",
+    "Name" : "Name",
+    "Area" : "Area",
+    "FullAddres" : "כתובת",
+    "Hours" : "Hours",
+    "Phone" : "Phone",
+    "email" : "email",
+    "StreetCode" : "StreetCode",
+    "House" : "House"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_Librar",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Librar"
+    },
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Name",
+      "length" : 254
+    },
+    {
+      "name" : "Area",
+      "type" : "esriFieldTypeString",
+      "alias" : "Area",
+      "length" : 254
+    },
+    {
+      "name" : "FullAddres",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 254
+    },
+    {
+      "name" : "Hours",
+      "type" : "esriFieldTypeString",
+      "alias" : "Hours",
+      "length" : 254
+    },
+    {
+      "name" : "Phone",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Phone"
+    },
+    {
+      "name" : "email",
+      "type" : "esriFieldTypeString",
+      "alias" : "email",
+      "length" : 254
+    },
+    {
+      "name" : "StreetCode",
+      "type" : "esriFieldTypeString",
+      "alias" : "StreetCode",
+      "length" : 254
+    },
+    {
+      "name" : "House",
+      "type" : "esriFieldTypeString",
+      "alias" : "House",
+      "length" : 254
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_Librar" : null,
+        "OBJECTID" : null,
+        "Name" : null,
+        "Area" : null,
+        "FullAddres" : "רח' פבזנר 54",
+        "Hours" : null,
+        "Phone" : null,
+        "email" : null,
+        "StreetCode" : null,
+        "House" : null
+      },
+      "geometry" : {
+        "x" : 34.99926862500007,
+        "y" : 32.806188766000048
+      }
+    }
+  ]
+}

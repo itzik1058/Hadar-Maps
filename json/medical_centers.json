@@ -1,0 +1,173 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "objectid",
+    "osm_id2" : "osm_id2",
+    "addr_housenumber" : "addr_housenumber",
+    "addr_street" : "addr_street",
+    "addr_city" : "addr_city",
+    "addr_state" : "addr_state",
+    "addr_postcode" : "addr_postcode",
+    "addr_province" : "addr_province",
+    "addr_country" : "addr_country",
+    "addr_unit" : "addr_unit",
+    "amenity" : "amenity",
+    "building" : "building",
+    "name" : "name",
+    "opening_hours" : "opening_hours",
+    "phone" : "phone",
+    "website" : "website"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "objectid"
+    },
+    {
+      "name" : "osm_id2",
+      "type" : "esriFieldTypeString",
+      "alias" : "osm_id2",
+      "length" : 255
+    },
+    {
+      "name" : "addr_housenumber",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_housenumber",
+      "length" : 255
+    },
+    {
+      "name" : "addr_street",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_street",
+      "length" : 255
+    },
+    {
+      "name" : "addr_city",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_city",
+      "length" : 255
+    },
+    {
+      "name" : "addr_state",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_state",
+      "length" : 255
+    },
+    {
+      "name" : "addr_postcode",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_postcode",
+      "length" : 255
+    },
+    {
+      "name" : "addr_province",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_province",
+      "length" : 255
+    },
+    {
+      "name" : "addr_country",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_country",
+      "length" : 255
+    },
+    {
+      "name" : "addr_unit",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_unit",
+      "length" : 255
+    },
+    {
+      "name" : "amenity",
+      "type" : "esriFieldTypeString",
+      "alias" : "amenity",
+      "length" : 255
+    },
+    {
+      "name" : "building",
+      "type" : "esriFieldTypeString",
+      "alias" : "building",
+      "length" : 255
+    },
+    {
+      "name" : "name",
+      "type" : "esriFieldTypeString",
+      "alias" : "name",
+      "length" : 255
+    },
+    {
+      "name" : "opening_hours",
+      "type" : "esriFieldTypeString",
+      "alias" : "opening_hours",
+      "length" : 255
+    },
+    {
+      "name" : "phone",
+      "type" : "esriFieldTypeString",
+      "alias" : "phone",
+      "length" : 255
+    },
+    {
+      "name" : "website",
+      "type" : "esriFieldTypeString",
+      "alias" : "website",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "building" : null,
+        "name" : "סופר-פארם",
+        "opening_hours" : null,
+        "phone" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895689.8227999993,
+        "y" : 3870554.0455000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "building" : null,
+        "name" : "כללית - ארמון - מרכז מקצועי",
+        "opening_hours" : null,
+        "phone" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895702.9585000016,
+        "y" : 3870571.9532999992
+      }
+    }
+  ]
+}

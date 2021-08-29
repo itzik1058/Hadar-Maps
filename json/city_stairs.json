@@ -1,0 +1,2926 @@
+{
+  "displayFieldName" : "",
+  "hasZ" : true,
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "OID_1" : "OID_1",
+    "Name" : "Name",
+    "S_Strt" : "S_Strt",
+    "E_Strt" : "E_Strt",
+    "Length" : "Length",
+    "Elevation" : "Elevation",
+    "Gradient" : "Gradient",
+    "GlobalID" : "GlobalID",
+    "Shape__Length" : "Shape__Length",
+    "FolderPath" : "FolderPath",
+    "SymbolID" : "SymbolID",
+    "AltMode" : "AltMode",
+    "Base" : "Base",
+    "Clamped" : "Clamped",
+    "Extruded" : "Extruded",
+    "Snippet" : "Snippet",
+    "PopupInfo" : "PopupInfo",
+    "Shape__Length_2" : "Shape__Length_2"
+  },
+  "geometryType" : "esriGeometryPolyline",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "OID_1",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "OID_1"
+    },
+    {
+      "name" : "Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Name",
+      "length" : 50
+    },
+    {
+      "name" : "S_Strt",
+      "type" : "esriFieldTypeString",
+      "alias" : "S_Strt",
+      "length" : 50
+    },
+    {
+      "name" : "E_Strt",
+      "type" : "esriFieldTypeString",
+      "alias" : "E_Strt",
+      "length" : 50
+    },
+    {
+      "name" : "Length",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Length"
+    },
+    {
+      "name" : "Elevation",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Elevation"
+    },
+    {
+      "name" : "Gradient",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Gradient"
+    },
+    {
+      "name" : "GlobalID",
+      "type" : "esriFieldTypeGlobalID",
+      "alias" : "GlobalID",
+      "length" : 38
+    },
+    {
+      "name" : "Shape__Length",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape__Length"
+    },
+    {
+      "name" : "FolderPath",
+      "type" : "esriFieldTypeString",
+      "alias" : "FolderPath",
+      "length" : 320
+    },
+    {
+      "name" : "SymbolID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "SymbolID"
+    },
+    {
+      "name" : "AltMode",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "AltMode"
+    },
+    {
+      "name" : "Base",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Base"
+    },
+    {
+      "name" : "Clamped",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Clamped"
+    },
+    {
+      "name" : "Extruded",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Extruded"
+    },
+    {
+      "name" : "Snippet",
+      "type" : "esriFieldTypeString",
+      "alias" : "Snippet",
+      "length" : 268435455
+    },
+    {
+      "name" : "PopupInfo",
+      "type" : "esriFieldTypeString",
+      "alias" : "PopupInfo",
+      "length" : 268435455
+    },
+    {
+      "name" : "Shape__Length_2",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape__Length_2"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות שמואל",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993788369000072,
+              32.810138258000052,
+              0
+            ],
+            [
+              34.993367829000078,
+              32.809700376000023,
+              0
+            ],
+            [
+              34.993033998000044,
+              32.809305849000054,
+              0
+            ],
+            [
+              34.992925612000079,
+              32.809175786000026,
+              0
+            ],
+            [
+              34.992799884000078,
+              32.809050057000036,
+              0
+            ],
+            [
+              34.992700168000056,
+              32.808946006000042,
+              0
+            ],
+            [
+              34.992596118000051,
+              32.808841955000048,
+              0
+            ],
+            [
+              34.992526750000025,
+              32.808746575000043,
+              0
+            ],
+            [
+              34.992301306000059,
+              32.808495119000042,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות שמואל",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.992786877000071,
+              32.807801444000063,
+              0
+            ],
+            [
+              34.992656814000043,
+              32.807710400000076,
+              0
+            ],
+            [
+              34.992145229000073,
+              32.808169959000054,
+              0
+            ],
+            [
+              34.991711683000062,
+              32.80781445100007,
+              0
+            ],
+            [
+              34.99165965800006,
+              32.807736413000043,
+              0
+            ],
+            [
+              34.991611968000029,
+              32.807593342000075,
+              0
+            ],
+            [
+              34.990987661000077,
+              32.806982042000072,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות קורש",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.991280846000052,
+              32.811079595000024,
+              0
+            ],
+            [
+              34.991231531000039,
+              32.81108826600007,
+              0
+            ],
+            [
+              34.991209854000033,
+              32.81108284700008,
+              0
+            ],
+            [
+              34.991184925000027,
+              32.811076885000034,
+              0
+            ],
+            [
+              34.991136692000055,
+              32.811040576000039,
+              0
+            ],
+            [
+              34.991117725000038,
+              32.811011853000025,
+              0
+            ],
+            [
+              34.990788230000078,
+              32.810581558000024,
+              0
+            ],
+            [
+              34.990762760000052,
+              32.810533869000039,
+              0
+            ],
+            [
+              34.990743250000037,
+              32.810456914000042,
+              0
+            ],
+            [
+              34.990688514000055,
+              32.810280244000069,
+              0
+            ],
+            [
+              34.990620231000037,
+              32.810054258000036,
+              0
+            ],
+            [
+              34.990617521000047,
+              32.810036375000038,
+              0
+            ],
+            [
+              34.990603431000068,
+              32.81001632300007,
+              0
+            ],
+            [
+              34.990382864000026,
+              32.809692789000053,
+              0
+            ],
+            [
+              34.990331923000042,
+              32.809638054000061,
+              0
+            ],
+            [
+              34.990260388000024,
+              32.809589281000058,
+              0
+            ],
+            [
+              34.99028260700004,
+              32.809534545000076,
+              0
+            ],
+            [
+              34.990057163000074,
+              32.809341075000077,
+              0
+            ],
+            [
+              34.989462934000073,
+              32.808829355000057,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות העמק",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.994873182000049,
+              32.809549719000074,
+              0
+            ],
+            [
+              34.994894859000055,
+              32.809237566000036,
+              0
+            ],
+            [
+              34.994916537000051,
+              32.809098831000028,
+              0
+            ],
+            [
+              34.994884021000075,
+              32.80857207300005,
+              0
+            ],
+            [
+              34.994892692000064,
+              32.808557982000025,
+              0
+            ],
+            [
+              34.994900279000035,
+              32.808549853000045,
+              0
+            ],
+            [
+              34.994913827000062,
+              32.808541724000065,
+              0
+            ],
+            [
+              34.994921414000032,
+              32.808537389000037,
+              0
+            ],
+            [
+              34.994915995000042,
+              32.808518422000077,
+              0
+            ],
+            [
+              34.994914911000023,
+              32.808499453000024,
+              0
+            ],
+            [
+              34.994903531000034,
+              32.808492950000073,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות העמק",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.994767505000027,
+              32.808498912000061,
+              0
+            ],
+            [
+              34.994519842000045,
+              32.808127959000046,
+              0
+            ],
+            [
+              34.994451559000026,
+              32.808019572000035,
+              0
+            ],
+            [
+              34.994243457000039,
+              32.807680323000056,
+              0
+            ],
+            [
+              34.99417300600004,
+              32.807569768000064,
+              0
+            ],
+            [
+              34.993817498000055,
+              32.807016997000062,
+              0
+            ],
+            [
+              34.993513399000051,
+              32.806641109000054,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות אושה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.997763755000051,
+              32.808360512000036,
+              0
+            ],
+            [
+              34.997180296000067,
+              32.80782210700005,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "אושה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.997103702000061,
+              32.807650899000066,
+              0
+            ],
+            [
+              34.996718484000041,
+              32.807306230000052,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "חיים / ויצמן",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998426061000032,
+              32.807456037000065,
+              0
+            ],
+            [
+              34.998390017000077,
+              32.807374938000066,
+              0
+            ],
+            [
+              34.997804305000045,
+              32.806991973000038,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "חיים / ויצמן",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.997660129000053,
+              32.806775709000078,
+              0
+            ],
+            [
+              34.997232108000048,
+              32.806280107000077,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "הלל יפה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998781994000069,
+              32.809591634000071,
+              0
+            ],
+            [
+              34.998448588000031,
+              32.809326937000037,
+              0
+            ],
+            [
+              34.998331445000076,
+              32.809243586000036,
+              0
+            ],
+            [
+              34.997958617000052,
+              32.808991279000054,
+              0
+            ],
+            [
+              34.997870760000069,
+              32.808923697000068,
+              0
+            ],
+            [
+              34.997505816000057,
+              32.808660126000063,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "בית\"ר",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.000157854000065,
+              32.804132120000077,
+              0
+            ],
+            [
+              35.000044090000074,
+              32.804002025000045,
+              0
+            ],
+            [
+              35.00000579400006,
+              32.803941201000043,
+              0
+            ],
+            [
+              34.999966371000028,
+              32.80387925000008,
+              0
+            ],
+            [
+              34.999955389000036,
+              32.803864044000079,
+              0
+            ],
+            [
+              34.999926384000048,
+              32.803836166000053,
+              0
+            ],
+            [
+              34.999595796000051,
+              32.803560206000043,
+              0
+            ],
+            [
+              34.999554964000026,
+              32.803521346000025,
+              0
+            ],
+            [
+              34.999502869000025,
+              32.80346361900007,
+              0
+            ],
+            [
+              34.999324341000033,
+              32.803268195000044,
+              0
+            ],
+            [
+              34.999203819000059,
+              32.80313471900007,
+              0
+            ],
+            [
+              34.999135110000054,
+              32.803057563000038,
+              0
+            ],
+            [
+              34.99907822800003,
+              32.802989982000042,
+              0
+            ],
+            [
+              34.998993188000043,
+              32.802880160000029,
+              0
+            ],
+            [
+              34.998750455000049,
+              32.802578857000071,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "שפינוזה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.994922769000027,
+              32.807319606000078,
+              0
+            ],
+            [
+              34.994756066000036,
+              32.806979442000056,
+              0
+            ],
+            [
+              34.994667646000039,
+              32.806791338000039,
+              0
+            ],
+            [
+              34.994627097000034,
+              32.806718687000057,
+              0
+            ],
+            [
+              34.994527413000071,
+              32.806537905000027,
+              0
+            ],
+            [
+              34.994326919000059,
+              32.806178030000069,
+              0
+            ],
+            [
+              34.994295944000044,
+              32.80613353800004,
+              0
+            ],
+            [
+              34.994242442000029,
+              32.806070462000037,
+              0
+            ],
+            [
+              34.994092071000068,
+              32.805900098000052,
+              0
+            ],
+            [
+              34.993755991000057,
+              32.805511078000052,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "שפרה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.989447486000074,
+              32.815488179000056,
+              0
+            ],
+            [
+              34.989399616000071,
+              32.815382300000067,
+              0
+            ],
+            [
+              34.989297116000046,
+              32.815139004000059,
+              0
+            ],
+            [
+              34.989156320000063,
+              32.814866423000069,
+              0
+            ],
+            [
+              34.989052130000061,
+              32.814652412000044,
+              0
+            ],
+            [
+              34.989026787000057,
+              32.814573004000067,
+              0
+            ],
+            [
+              34.988933861000078,
+              32.814314502000059,
+              0
+            ],
+            [
+              34.989035235000074,
+              32.814125835000027,
+              0
+            ],
+            [
+              34.988927667000041,
+              32.81390112400004,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "צפת",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993608859000062,
+              32.811039019000077,
+              0
+            ],
+            [
+              34.993486648000044,
+              32.810934830000065,
+              0
+            ],
+            [
+              34.993359932000033,
+              32.810830641000052,
+              0
+            ],
+            [
+              34.993313187000069,
+              32.810794033000036,
+              0
+            ],
+            [
+              34.99329347500003,
+              32.810783333000074,
+              0
+            ],
+            [
+              34.993249547000062,
+              32.810742220000066,
+              0
+            ],
+            [
+              34.993091292000031,
+              32.810607056000038,
+              0
+            ],
+            [
+              34.993002872000034,
+              32.810536095000032,
+              0
+            ],
+            [
+              34.992917831000057,
+              32.810458938000068,
+              0
+            ],
+            [
+              34.99283166400005,
+              32.810381219000078,
+              0
+            ],
+            [
+              34.992835606000028,
+              32.810164392000047,
+              0
+            ],
+            [
+              34.99283166400005,
+              32.809985864000055,
+              0
+            ],
+            [
+              34.992835606000028,
+              32.809945877000075,
+              0
+            ],
+            [
+              34.992840112000067,
+              32.809820287000036,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "השלום",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993290500000057,
+              32.811568200000067,
+              0
+            ],
+            [
+              34.993708900000058,
+              32.811950600000046,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.003721400000074,
+              32.800910300000055,
+              0
+            ],
+            [
+              35.003517500000044,
+              32.801638500000024,
+              0
+            ],
+            [
+              35.003703800000039,
+              32.801855200000034,
+              0
+            ],
+            [
+              35.003635100000054,
+              32.802012500000046,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998819000000026,
+              32.809766600000046,
+              0
+            ],
+            [
+              34.999151200000028,
+              32.809879300000034,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.000140400000078,
+              32.814735700000028,
+              0
+            ],
+            [
+              35.000242212000046,
+              32.814771141000051,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.997199600000044,
+              32.806261600000028,
+              0
+            ],
+            [
+              34.997681600000078,
+              32.80680540000003,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998189600000046,
+              32.804228500000079,
+              0
+            ],
+            [
+              34.998270700000035,
+              32.80405410000003,
+              0
+            ],
+            [
+              34.998325500000078,
+              32.803936300000032,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.986424900000031,
+              32.816491100000064,
+              0
+            ],
+            [
+              34.986169000000075,
+              32.816097900000045,
+              0
+            ],
+            [
+              34.985883200000046,
+              32.815663100000052,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.989360200000078,
+              32.81071680000008,
+              0
+            ],
+            [
+              34.98942130000006,
+              32.810765600000025,
+              0
+            ],
+            [
+              34.989199800000051,
+              32.81101840000008,
+              0
+            ],
+            [
+              34.989873900000077,
+              32.811495400000069,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.996698000000038,
+              32.807294500000069,
+              0
+            ],
+            [
+              34.997119500000053,
+              32.807668300000046,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993926300000055,
+              32.809041300000047,
+              0
+            ],
+            [
+              34.994072500000073,
+              32.809201600000051,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.999308500000041,
+              32.809679500000072,
+              0
+            ],
+            [
+              34.999041300000044,
+              32.80949830000003,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.000751300000047,
+              32.807854100000043,
+              0
+            ],
+            [
+              35.001009100000033,
+              32.808026200000029,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.003503100000046,
+              32.807525200000043,
+              0
+            ],
+            [
+              35.003897300000062,
+              32.807717300000036,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993294000000049,
+              32.810782500000073,
+              0
+            ],
+            [
+              34.993127100000038,
+              32.810636500000044,
+              0
+            ],
+            [
+              34.993024500000047,
+              32.810556100000042,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993024500000047,
+              32.810556100000042,
+              0
+            ],
+            [
+              34.992832700000065,
+              32.810380300000077,
+              0
+            ],
+            [
+              34.992841000000055,
+              32.809800300000063,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות אהבת ישראל",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.003817900000058,
+              32.799496600000055,
+              0
+            ],
+            [
+              35.004170100000067,
+              32.799494400000071,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.989745300000038,
+              32.81291230000005,
+              0
+            ],
+            [
+              34.990721400000041,
+              32.813712500000065,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "שפינוזה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993741900000032,
+              32.805493600000034,
+              0
+            ],
+            [
+              34.994316000000026,
+              32.806156000000044,
+              0
+            ],
+            [
+              34.994658100000038,
+              32.806773600000042,
+              0
+            ],
+            [
+              34.994936200000041,
+              32.80734700000005,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.994889300000068,
+              32.80847650000004,
+              0
+            ],
+            [
+              34.99491770000003,
+              32.808506800000032,
+              0
+            ],
+            [
+              34.994918000000041,
+              32.808538300000066,
+              0
+            ],
+            [
+              34.994900500000028,
+              32.808548100000053,
+              0
+            ],
+            [
+              34.994884700000057,
+              32.808571200000074,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.992658100000028,
+              32.807698900000048,
+              0
+            ],
+            [
+              34.992805600000054,
+              32.807830700000068,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.988916500000073,
+              32.813876400000026,
+              0
+            ],
+            [
+              34.989034300000071,
+              32.814127600000063,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "HaUman St.",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993248700000038,
+              32.812858400000039,
+              0
+            ],
+            [
+              34.992974900000036,
+              32.812714700000072,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.989711700000043,
+              32.812941600000045,
+              0
+            ],
+            [
+              34.989397600000075,
+              32.81268330000006,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות שמואל",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993800500000077,
+              32.810158800000067,
+              0
+            ],
+            [
+              34.993595800000037,
+              32.809949500000073,
+              0
+            ],
+            [
+              34.993338300000062,
+              32.809672000000035,
+              0
+            ],
+            [
+              34.993188300000043,
+              32.809492300000045,
+              0
+            ],
+            [
+              34.992879000000073,
+              32.80912150000006,
+              0
+            ],
+            [
+              34.992624400000068,
+              32.808869700000059,
+              0
+            ],
+            [
+              34.992271800000026,
+              32.808447200000046,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "מדרגות הנביאים",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.99817360000003,
+              32.815513800000076,
+              0
+            ],
+            [
+              34.998252400000069,
+              32.815599300000031,
+              0
+            ],
+            [
+              34.998305898000069,
+              32.815655618000051,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.99910880200008,
+              32.816096684000058,
+              0
+            ],
+            [
+              34.999077000000057,
+              32.816077200000052,
+              0
+            ],
+            [
+              34.998994700000026,
+              32.816104800000062,
+              0
+            ],
+            [
+              34.998930700000074,
+              32.816164700000058,
+              0
+            ],
+            [
+              34.998827400000039,
+              32.816105100000073,
+              0
+            ],
+            [
+              34.998633901000062,
+              32.815998011000033,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "שמואל",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.990952700000037,
+              32.806938700000046,
+              0
+            ],
+            [
+              34.991594700000064,
+              32.807587100000035,
+              0
+            ],
+            [
+              34.991683400000056,
+              32.807774400000028,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.989769000000024,
+              32.816954700000053,
+              0
+            ],
+            [
+              34.989648400000078,
+              32.816971500000079,
+              0
+            ],
+            [
+              34.989488200000039,
+              32.816693400000077,
+              0
+            ],
+            [
+              34.989280600000029,
+              32.816343900000049,
+              0
+            ],
+            [
+              34.988911400000063,
+              32.815630700000042,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.991683400000056,
+              32.807774400000028,
+              0
+            ],
+            [
+              34.992147100000068,
+              32.808172300000024,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.990800714000045,
+              32.805929114000037,
+              0
+            ],
+            [
+              34.991321200000073,
+              32.806441300000074,
+              0
+            ],
+            [
+              34.991405800000052,
+              32.806425700000034,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.990344100000073,
+              32.809679300000028,
+              0
+            ],
+            [
+              34.990301400000078,
+              32.809641500000055,
+              0
+            ],
+            [
+              34.990261100000055,
+              32.809587200000067,
+              0
+            ],
+            [
+              34.990281000000039,
+              32.809536600000058,
+              0
+            ],
+            [
+              34.989432400000055,
+              32.808803200000057,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998234300000036,
+              32.804567900000052,
+              0
+            ],
+            [
+              34.998189600000046,
+              32.804228500000079,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.988985000000071,
+              32.814219900000069,
+              0
+            ],
+            [
+              34.988935500000025,
+              32.814309900000069,
+              0
+            ],
+            [
+              34.989056400000038,
+              32.814662800000065,
+              0
+            ],
+            [
+              34.989296300000035,
+              32.815139800000054,
+              0
+            ],
+            [
+              34.989454700000067,
+              32.815506600000049,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              35.000140400000078,
+              32.814735700000028,
+              0
+            ],
+            [
+              34.999639400000035,
+              32.814524900000038,
+              0
+            ],
+            [
+              34.999596500000052,
+              32.814518900000053,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Hayarok Stairs",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.987098100000026,
+              32.816244400000073,
+              0
+            ],
+            [
+              34.987510500000042,
+              32.816827200000034,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "HaUman St.",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.993617300000039,
+              32.813059100000032,
+              0
+            ],
+            [
+              34.994084900000075,
+              32.81334860000004,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "הלל יפה",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.998811500000045,
+              32.809617800000069,
+              0
+            ],
+            [
+              34.998425400000031,
+              32.809307900000078,
+              0
+            ],
+            [
+              34.997939000000031,
+              32.808976800000039,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.990008300000056,
+              32.811301000000071,
+              0
+            ],
+            [
+              34.990621400000066,
+              32.811694400000079,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.99380380000008,
+              32.806994000000032,
+              0
+            ],
+            [
+              34.994220800000051,
+              32.807643700000028,
+              0
+            ],
+            [
+              34.994504800000072,
+              32.808105400000045,
+              0
+            ],
+            [
+              34.994781200000034,
+              32.808516700000041,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "OID_1" : null,
+        "Name" : "Placemark",
+        "S_Strt" : null,
+        "E_Strt" : null,
+        "Length" : null,
+        "Elevation" : null,
+        "Gradient" : null,
+        "GlobalID" : null,
+        "Shape__Length" : null,
+        "FolderPath" : null,
+        "SymbolID" : null,
+        "AltMode" : null,
+        "Base" : null,
+        "Clamped" : null,
+        "Extruded" : null,
+        "Snippet" : null,
+        "PopupInfo" : null,
+        "Shape__Length_2" : null
+      },
+      "geometry" : {
+        "hasZ" : true,
+        "paths" : [
+          [
+            [
+              34.997155300000031,
+              32.807803300000046,
+              0
+            ],
+            [
+              34.997772800000064,
+              32.808372200000065,
+              0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

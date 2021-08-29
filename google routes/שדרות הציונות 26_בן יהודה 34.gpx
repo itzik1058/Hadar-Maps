@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/32.8153708,34.9920459/32.8118953,34.9921158/@32.8133358,34.9946574,17z/am=t/data=!3m1!4b1!4m2!4m1!3e2?hl=en</url-->
+    <time>2021-08-29T12:45:34Z</time>
+  </metadata>
+  <wpt lat="32.8153708" lon="34.9920459">
+    <name>Haifa</name>
+    <desc>Hatzionut Ave 26, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.8118953" lon="34.9921158">
+    <name>Haifa</name>
+    <desc>Ben Yehuda St 34, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>Haifa to Haifa</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.8153708" lon="34.9920459">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.81518" lon="34.99193">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.81512" lon="34.99191">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.81495" lon="34.99184">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.81478" lon="34.99177">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.8147772" lon="34.9917654">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.81454" lon="34.99197">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.81437" lon="34.99209">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.81427" lon="34.99215">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.8142" lon="34.99219">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.81413" lon="34.99223">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.8141" lon="34.99224">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.81398" lon="34.9923">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.81394" lon="34.99232">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.81385" lon="34.99237">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.81377" lon="34.99241">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="32.81361" lon="34.99249">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="32.81356" lon="34.99252">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="32.81344" lon="34.99257">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="32.81327" lon="34.99265">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="32.81322" lon="34.99267">
+    <name>TP021</name>
+  </trkpt>
+  <trkpt lat="32.81304" lon="34.99276">
+    <name>TP022</name>
+  </trkpt>
+  <trkpt lat="32.81275" lon="34.99298">
+    <name>TP023</name>
+  </trkpt>
+  <trkpt lat="32.8127537" lon="34.9929806">
+    <name>TP024</name>
+  </trkpt>
+  <trkpt lat="32.81246" lon="34.99268">
+    <name>TP025</name>
+  </trkpt>
+  <trkpt lat="32.81205" lon="34.99228">
+    <name>TP026</name>
+  </trkpt>
+  <trkpt lat="32.81192" lon="34.99214">
+    <name>TP027</name>
+  </trkpt>
+  <trkpt lat="32.8119" lon="34.99212">
+    <name>TP028</name>
+  </trkpt>
+  <trkpt lat="32.8118953" lon="34.9921158">
+    <name>TP029</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

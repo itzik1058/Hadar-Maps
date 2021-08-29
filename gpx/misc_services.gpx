@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<gpx creator="Esri" version="1.1" xalan="http://xml.apache.org/xalan" xmlns="http://www.topografix.com/GPX/1/1" xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <wpt lat="32.80114189993018" lon="35.00052090011381">
+    <ele> </ele>
+    <name>1</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80357559941494" lon="34.999965099871126">
+    <ele> </ele>
+    <name>2</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.8093673998099" lon="34.99144580021171">
+    <ele> </ele>
+    <name>3</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81040909971171" lon="34.990120999865006">
+    <ele> </ele>
+    <name>4</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.812305999599566" lon="34.98608410033557">
+    <ele> </ele>
+    <name>5</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81412859980413" lon="34.9885712002857">
+    <ele> </ele>
+    <name>6</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80755289931224" lon="34.99472220039466">
+    <ele> </ele>
+    <name>7</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80800479927795" lon="34.993073199858514">
+    <ele> </ele>
+    <name>8</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80928139986924" lon="34.9941004997427">
+    <ele> </ele>
+    <name>9</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81027809938178" lon="34.99158260015476">
+    <ele> </ele>
+    <name>10</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.809464099718355" lon="34.99351299975028">
+    <ele> </ele>
+    <name>11</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80954209936727" lon="34.99335079994256">
+    <ele> </ele>
+    <name>12</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.809869299405726" lon="34.99318159956386">
+    <ele> </ele>
+    <name>13</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80946939991252" lon="34.993817899635815">
+    <ele> </ele>
+    <name>14</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80941780001735" lon="34.99390429959985">
+    <ele> </ele>
+    <name>15</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80942469933348" lon="34.9938957000276">
+    <ele> </ele>
+    <name>16</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80823569946836" lon="34.99517659970642">
+    <ele> </ele>
+    <name>17</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.807105699397475" lon="35.00037679956248">
+    <ele> </ele>
+    <name>18</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.809393799634485" lon="34.998946699596445">
+    <ele> </ele>
+    <name>19</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.809399499235255" lon="35.00106069956467">
+    <ele> </ele>
+    <name>20</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.812534199350175" lon="34.993311099796905">
+    <ele> </ele>
+    <name>21</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81242139963802" lon="34.99342849972307">
+    <ele> </ele>
+    <name>22</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81281539922999" lon="34.99307909999332">
+    <ele> </ele>
+    <name>23</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.811770599594915" lon="34.996341599645554">
+    <ele> </ele>
+    <name>24</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81324309944811" lon="34.995470499721264">
+    <ele> </ele>
+    <name>25</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81333959959945" lon="34.995577100101094">
+    <ele> </ele>
+    <name>26</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81371009947287" lon="34.9939373998231">
+    <ele> </ele>
+    <name>27</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81344829936195" lon="34.99569910029984">
+    <ele> </ele>
+    <name>28</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81347479989648" lon="34.9956951001019">
+    <ele> </ele>
+    <name>29</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81554799962264" lon="34.996728200407844">
+    <ele> </ele>
+    <name>30</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81128249926612" lon="34.997598400220205">
+    <ele> </ele>
+    <name>31</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.811988599269235" lon="34.99706470033014">
+    <ele> </ele>
+    <name>32</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.811356499608095" lon="34.99769689959281">
+    <ele> </ele>
+    <name>33</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81473849952623" lon="34.9971189998958">
+    <ele> </ele>
+    <name>34</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.81714969994903" lon="34.98873860044058">
+    <ele> </ele>
+    <name>35</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.80579940034938" lon="34.99825489980962">
+    <ele> </ele>
+    <name>36</name>
+    <desc> </desc>
+  </wpt>
+  <wpt lat="32.809919500006025" lon="34.998230199732596">
+    <ele> </ele>
+    <name>37</name>
+    <desc> </desc>
+  </wpt>
+</gpx>

@@ -1,0 +1,701 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "objectid",
+    "osm_id2" : "osm_id2",
+    "addr_housename" : "addr_housename",
+    "addr_housenumber" : "addr_housenumber",
+    "addr_street" : "addr_street",
+    "addr_city" : "addr_city",
+    "addr_state" : "addr_state",
+    "addr_postcode" : "addr_postcode",
+    "addr_province" : "addr_province",
+    "addr_country" : "addr_country",
+    "addr_district" : "addr_district",
+    "addr_subdistrict" : "addr_subdistrict",
+    "addr_unit" : "addr_unit",
+    "amenity" : "amenity",
+    "brand" : "brand",
+    "building" : "building",
+    "name" : "name",
+    "opening_hours" : "opening_hours",
+    "operator" : "operator",
+    "phone" : "phone",
+    "shop" : "shop",
+    "source" : "source",
+    "website" : "website"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "objectid"
+    },
+    {
+      "name" : "osm_id2",
+      "type" : "esriFieldTypeString",
+      "alias" : "osm_id2",
+      "length" : 255
+    },
+    {
+      "name" : "addr_housename",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_housename",
+      "length" : 255
+    },
+    {
+      "name" : "addr_housenumber",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_housenumber",
+      "length" : 255
+    },
+    {
+      "name" : "addr_street",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_street",
+      "length" : 255
+    },
+    {
+      "name" : "addr_city",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_city",
+      "length" : 255
+    },
+    {
+      "name" : "addr_state",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_state",
+      "length" : 255
+    },
+    {
+      "name" : "addr_postcode",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_postcode",
+      "length" : 255
+    },
+    {
+      "name" : "addr_province",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_province",
+      "length" : 255
+    },
+    {
+      "name" : "addr_country",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_country",
+      "length" : 255
+    },
+    {
+      "name" : "addr_district",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_district",
+      "length" : 255
+    },
+    {
+      "name" : "addr_subdistrict",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_subdistrict",
+      "length" : 255
+    },
+    {
+      "name" : "addr_unit",
+      "type" : "esriFieldTypeString",
+      "alias" : "addr_unit",
+      "length" : 255
+    },
+    {
+      "name" : "amenity",
+      "type" : "esriFieldTypeString",
+      "alias" : "amenity",
+      "length" : 255
+    },
+    {
+      "name" : "brand",
+      "type" : "esriFieldTypeString",
+      "alias" : "brand",
+      "length" : 255
+    },
+    {
+      "name" : "building",
+      "type" : "esriFieldTypeString",
+      "alias" : "building",
+      "length" : 255
+    },
+    {
+      "name" : "name",
+      "type" : "esriFieldTypeString",
+      "alias" : "name",
+      "length" : 255
+    },
+    {
+      "name" : "opening_hours",
+      "type" : "esriFieldTypeString",
+      "alias" : "opening_hours",
+      "length" : 255
+    },
+    {
+      "name" : "operator",
+      "type" : "esriFieldTypeString",
+      "alias" : "operator",
+      "length" : 255
+    },
+    {
+      "name" : "phone",
+      "type" : "esriFieldTypeString",
+      "alias" : "phone",
+      "length" : 255
+    },
+    {
+      "name" : "shop",
+      "type" : "esriFieldTypeString",
+      "alias" : "shop",
+      "length" : 255
+    },
+    {
+      "name" : "source",
+      "type" : "esriFieldTypeString",
+      "alias" : "source",
+      "length" : 255
+    },
+    {
+      "name" : "website",
+      "type" : "esriFieldTypeString",
+      "alias" : "website",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895101.1097000018,
+        "y" : 3870459.1163000017
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "Arlozorov",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895596.002700001,
+        "y" : 3869814.3409999982
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "שאלתי הזקן וופורייזרים סיגריות אלקטרוניות",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895621.1832000017,
+        "y" : 3869823.9301000014
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "בריין וואש - מכבסה אוטומטית",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895450.7752999999,
+        "y" : 3870046.4142000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "המכב",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3896122.2879000008,
+        "y" : 3870071.1555999964
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895480.4530999996,
+        "y" : 3870348.9161999971
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895521.7303999998,
+        "y" : 3870358.1613000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895483.5588999987,
+        "y" : 3870392.2278999984
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895571.4233999997,
+        "y" : 3870412.4267999977
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895621.6618999988,
+        "y" : 3870462.1758999974
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895315.5443999991,
+        "y" : 3870686.817900002
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "קשת טעמים",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895390.0839000009,
+        "y" : 3870711.9579000026
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895867.2437999994,
+        "y" : 3870417.1420999989
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : null,
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895894.6394999996,
+        "y" : 3870816.0022
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "קבוצת העתקות",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3895771.4200000018,
+        "y" : 3870029.6066000015
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "קונדיטוריה ליבל",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3896246.1530999988,
+        "y" : 3869636.9184999987
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : null,
+        "osm_id2" : null,
+        "addr_housename" : null,
+        "addr_housenumber" : null,
+        "addr_street" : null,
+        "addr_city" : null,
+        "addr_state" : null,
+        "addr_postcode" : null,
+        "addr_province" : null,
+        "addr_country" : null,
+        "addr_district" : null,
+        "addr_subdistrict" : null,
+        "addr_unit" : null,
+        "amenity" : null,
+        "brand" : null,
+        "building" : null,
+        "name" : "גולדמונד ספרים",
+        "opening_hours" : null,
+        "operator" : null,
+        "phone" : null,
+        "shop" : null,
+        "source" : null,
+        "website" : null
+      },
+      "geometry" : {
+        "x" : 3896278.5025000013,
+        "y" : 3870119.6185000017
+      }
+    }
+  ]
+}

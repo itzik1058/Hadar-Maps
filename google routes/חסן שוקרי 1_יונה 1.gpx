@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2021 Google, Mapa GISrael</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2021</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/חסן שוקרי 1, חיפה‭/יונה 1, חיפה‭/@32.8132959,34.9991284,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x151dba4be7f308ff:0xb10f26c8bd1c77a8!2m2!1d34.9975902!2d32.814644!1m5!1m1!1s0x151dba4c97a7c5c9:0xd83f0a5ef7d7ffc3!2m2!1d34.9965157!2d32.8118681!3e2?hl=en</url-->
+    <time>2021-08-28T18:17:12Z</time>
+  </metadata>
+  <wpt lat="32.814644" lon="34.9975902">
+    <name>חסן שוקרי 1</name>
+    <desc>Hassan Shuqri St 1, Haifa, Israel</desc>
+  </wpt>
+  <wpt lat="32.8118681" lon="34.9965157">
+    <name>יונה 1</name>
+    <desc>Yona St 1, Haifa, Israel</desc>
+  </wpt>
+<trk>
+  <name>חסן שוקרי 1 to יונה 1</name>
+  <number>1</number>
+  <trkseg>
+  <trkpt lat="32.814633" lon="34.9975772">
+    <name>TP001</name>
+  </trkpt>
+  <trkpt lat="32.81436" lon="34.99791">
+    <name>TP002</name>
+  </trkpt>
+  <trkpt lat="32.81422" lon="34.99811">
+    <name>TP003</name>
+  </trkpt>
+  <trkpt lat="32.81397" lon="34.99841">
+    <name>TP004</name>
+  </trkpt>
+  <trkpt lat="32.81371" lon="34.99868">
+    <name>TP005</name>
+  </trkpt>
+  <trkpt lat="32.8137089" lon="34.9986764">
+    <name>TP006</name>
+  </trkpt>
+  <trkpt lat="32.81366" lon="34.99861">
+    <name>TP007</name>
+  </trkpt>
+  <trkpt lat="32.81362" lon="34.99849">
+    <name>TP008</name>
+  </trkpt>
+  <trkpt lat="32.81362" lon="34.99848">
+    <name>TP009</name>
+  </trkpt>
+  <trkpt lat="32.81354" lon="34.99827">
+    <name>TP010</name>
+  </trkpt>
+  <trkpt lat="32.81345" lon="34.9981">
+    <name>TP011</name>
+  </trkpt>
+  <trkpt lat="32.81332" lon="34.99788">
+    <name>TP012</name>
+  </trkpt>
+  <trkpt lat="32.81314" lon="34.99767">
+    <name>TP013</name>
+  </trkpt>
+  <trkpt lat="32.81285" lon="34.99738">
+    <name>TP014</name>
+  </trkpt>
+  <trkpt lat="32.81241" lon="34.99707">
+    <name>TP015</name>
+  </trkpt>
+  <trkpt lat="32.81232" lon="34.99702">
+    <name>TP016</name>
+  </trkpt>
+  <trkpt lat="32.81226" lon="34.99698">
+    <name>TP017</name>
+  </trkpt>
+  <trkpt lat="32.81209" lon="34.99691">
+    <name>TP018</name>
+  </trkpt>
+  <trkpt lat="32.81205" lon="34.9969">
+    <name>TP019</name>
+  </trkpt>
+  <trkpt lat="32.81178" lon="34.99674">
+    <name>TP020</name>
+  </trkpt>
+  <trkpt lat="32.8117761" lon="34.9967425">
+    <name>TP021</name>
+  </trkpt>
+  </trkseg>
+</trk>
+</gpx>

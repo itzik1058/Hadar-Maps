@@ -1,0 +1,178 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "FID_Hadar_" : "FID_Hadar_",
+    "Id" : "Id",
+    "FID_commun" : "FID_commun",
+    "OBJECTID_1" : "OBJECTID_1",
+    "area" : "area",
+    "Name" : "Name",
+    "FullAddres" : "כתובת",
+    "StreetCode" : "StreetCode",
+    "House" : "House",
+    "Phone" : "Phone"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "FID_Hadar_",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_Hadar_"
+    },
+    {
+      "name" : "Id",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "Id"
+    },
+    {
+      "name" : "FID_commun",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_commun"
+    },
+    {
+      "name" : "OBJECTID_1",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "OBJECTID_1"
+    },
+    {
+      "name" : "area",
+      "type" : "esriFieldTypeString",
+      "alias" : "area",
+      "length" : 254
+    },
+    {
+      "name" : "Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Name",
+      "length" : 254
+    },
+    {
+      "name" : "FullAddres",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 254
+    },
+    {
+      "name" : "StreetCode",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "StreetCode"
+    },
+    {
+      "name" : "House",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "House"
+    },
+    {
+      "name" : "Phone",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Phone"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_commun" : null,
+        "OBJECTID_1" : null,
+        "area" : null,
+        "Name" : null,
+        "FullAddres" : "שילוח 1",
+        "StreetCode" : null,
+        "House" : null,
+        "Phone" : null
+      },
+      "geometry" : {
+        "x" : 35.000237593000065,
+        "y" : 32.804264516000046
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_commun" : null,
+        "OBJECTID_1" : null,
+        "area" : null,
+        "Name" : null,
+        "FullAddres" : "בית\"ר 8",
+        "StreetCode" : null,
+        "House" : null,
+        "Phone" : null
+      },
+      "geometry" : {
+        "x" : 35.000407105000079,
+        "y" : 32.804327370000067
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_commun" : null,
+        "OBJECTID_1" : null,
+        "area" : null,
+        "Name" : null,
+        "FullAddres" : "רח' ירושלים 29",
+        "StreetCode" : null,
+        "House" : null,
+        "Phone" : null
+      },
+      "geometry" : {
+        "x" : 34.999281904000043,
+        "y" : 32.80761282900005
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_commun" : null,
+        "OBJECTID_1" : null,
+        "area" : null,
+        "Name" : null,
+        "FullAddres" : "טבריה 15",
+        "StreetCode" : null,
+        "House" : null,
+        "Phone" : null
+      },
+      "geometry" : {
+        "x" : 34.990680714000064,
+        "y" : 32.811274818000072
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : null,
+        "FID_Hadar_" : null,
+        "Id" : null,
+        "FID_commun" : null,
+        "OBJECTID_1" : null,
+        "area" : null,
+        "Name" : null,
+        "FullAddres" : "רח' עבאס 60",
+        "StreetCode" : null,
+        "House" : null,
+        "Phone" : null
+      },
+      "geometry" : {
+        "x" : 34.983901979000052,
+        "y" : 32.817714296000077
+      }
+    }
+  ]
+}

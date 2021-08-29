@@ -1,0 +1,313 @@
+<!doctype html>
+{% if language == 'en' %}
+<html dir="ltr" lang="en">
+{% elif language == 'he' %}
+<html dir="rtl" lang="he">
+{% elif language == 'ar' %}
+<html dir="rtl" lang="ar">
+{% elif language == 'ru' %}
+<html dir="ltr" lang="ru">
+{% endif %}
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+{{super()}}
+{% if language == 'en' %}
+Hadar Maps
+{% elif language == 'he' %}
+הדר מפות
+{% elif language == 'ar' %}
+أدار خرائط
+{% elif language == 'ru' %}
+Карты Адар
+{% endif %}
+{% endblock %}
+
+{% block head %}
+{{super()}}
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+{% endblock %}
+
+{% block content %}
+{{super()}}
+
+{% block navbar %}
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card w3-black">
+        {% if error == 1 %}
+        <div class="alert alert-danger" role="alert">
+            {% if language == 'en' %}
+            The starting location could not be found.
+            {% elif language == 'he' %}
+            המיקום ההתחלתי לא נמצא.
+            {% elif language == 'ar' %}
+            لم يتم العثور على الموقع الأولي.
+            {% elif language == 'ru' %}
+            Исходная позиция не найдена.
+            {% endif %}
+        </div>
+        {% elif error == 2 %}
+        <div class="alert alert-danger" role="alert">
+            {% if language == 'en' %}
+            The destination could not be found.
+            {% elif language == 'he' %}
+            היעד לא נמצא.
+            {% elif language == 'ar' %}
+            الوجهة غير موجودة.
+            {% elif language == 'ru' %}
+            Пункт назначения не найден.
+            {% endif %}
+        </div>
+        {% endif %}
+        <a href="#home" class="w3-bar-item w3-button"><b>Hadar</b>Maps</a>
+        <a href="https://www.hamal.tech" class="w3-bar-item w3-button" width="100" height="40">
+            <img src="/static/img/logo.png" alt="hamal_logo" width="100" height="40">
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right w3-hide-small">
+            <a href="#planning" class="w3-bar-item w3-button">
+                {% if language == 'en' %}
+                Route Planning
+                {% elif language == 'he' %}
+                תכנון מסלול
+                {% elif language == 'ar' %}
+                تخطيط الطريق
+                {% elif language == 'ru' %}
+                Планирование маршрута
+                {% endif %}
+            </a>
+            <a href="https://www.instagram.com/benpili/" class="w3-bar-item w3-button">
+                {% if language == 'en' %}
+                Contact
+                {% elif language == 'he' %}
+                צרו קשר
+                {% elif language == 'ar' %}
+                اتصل
+                {% elif language == 'ru' %}
+                контакт
+                {% endif %}
+            </a>
+            <a href="#about" class="w3-bar-item w3-button">
+                {% if language == 'en' %}
+                About
+                {% elif language == 'he' %}
+                אודות
+                {% elif language == 'ar' %}
+                حول
+                {% elif language == 'ru' %}
+                O
+                {% endif %}
+            </a>
+            <a href="/he" class="w3-bar-item w3-button">
+                <img src="/static/img/israel.jpg" alt="Hebrew" width="30px" , height="20px">
+            </a>
+            <a href="/en" class="w3-bar-item w3-button">
+                <img src="/static/img/english.png" alt="English" width="30px" , height="20px">
+            </a>
+            <a href="/ar" class="w3-bar-item w3-button">
+                <img src="/static/img/arabic.png" alt="Arabic" width="30px" , height="20px">
+            </a>
+            <a href="/ru" class="w3-bar-item w3-button">
+                <img src="/static/img/russian.png" alt="Russian" width="30px" , height="20px">
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+    <img class="w3-image" src="/static/img/stairs.jpg" alt="Stairs" width="1500" height="800">
+    <div class="w3-display-middle w3-margin-top w3-center">
+        <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min">
+      <b>Hadar</b></span> <span class="w3-hide-small w3-text-light-grey">Maps</span></h1>
+    </div>
+</header>
+<!-- Planning Section -->
+<div id="planning" class="container" style="width: 75%">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-center" style="margin-top: 80px">
+        {% if language == 'en' %}
+        Route Planning
+        {% elif language == 'he' %}
+        תכנון מסלול
+        {% elif language == 'ar' %}
+        تخطيط الطريق
+        {% elif language == 'ru' %}
+        Планирование маршрута
+        {% endif %}
+    </h3>
+    <p>
+        {% if language == 'en' %}
+        Welcome to Hadar Maps, a smart system that find the best route, specifically tailored to your preferences!  😊
+        <br>
+        Sure, the best route for you might not be the shortest, but we're pretty sure you'll be more than pleased.
+        <br>
+        (On a personal note, we'd rather go around a whole block than walk a single step in a stairway)
+        <br>
+        If you're still not impressed, let us help you plan the perfect workout route for you!
+        <br>
+        To get started, fill in the details below.
+        {% elif language == 'he' %}
+        ברוכים הבאים להדר מפות, מערכת חכמה לתכנון המסלול הקצר ביותר שמותאם אישית עבורך! 😊
+        <br>
+        שימו לב כי המסלול המיטבי עבורכם הוא לאו דווקא המסלול הקצר ביותר ליעד, אבל הוא מסלול שאנחנו חושבים שתהיו מרוצים ממנו.
+        <br>
+         (בנימה אישית, אנחנו לא סובלים מדרגות ומוכנים לעקוף רחוב שלם רק כדי להמנע מהן)
+        <br>
+        אם עדיין לא הצלחנו להרשים אותך, נוכל לעזור לך לתכנן את מסלול האימון האידיאלי!
+        <br>
+        כדי לצאת לדרך, מלאו את הפרטים מטה.
+        {% elif language == 'ar' %}
+        مرحبًا بكم في ___ ، نظام ذكي لتخطيط الطريق الاقصر خصوصًا لك! 😊
+        <br>
+        إنتبه، إن الطريق الأفضل بالنسبة لك هو ليس بالضرورة أقصر طريق إلى وجهتك ، ولكنه الطريق الذي نعتقد أنك ستكون سعيدًا به.
+        <br>
+         (شخصيًا ، نحن لا نحبّذ الدرج ونفضّل الالتفاف بشارع بأكمله فقط لتجنب درجة واحدة)
+        <br>
+        في حالة لم نتمكن بعد من إثارة إعجابك، فيمكننا مساعدتك في تخطيط طريق تدريبك المثالي!
+        <br>
+        للبدء ، املأ التفاصيل أدناه.
+        {% elif language == 'ru' %}
+        Добро пожаловать в Hadar Maps, интеллектуальную систему для планирования кратчайшего маршрута, настроенную специально для вас! 😊
+        <br>
+        Обратите внимание, что лучший маршрут для вас не обязательно является кратчайшим путем к месту назначения, но мы думаем, что это маршрут, который вам понравится.
+        <br>
+        (От себя лично: мы не терпим лестниц и готовы объехать всю улицу, чтобы избежать их)
+        <br>
+        Если нам еще не удалось произвести на вас впечатление, мы поможем спланировать идеальную спортивную трассу!
+        <br>
+        Для начала заполните данные ниже.
+        {% endif %}
+    </p>
+    <form id="search_form" method="post" action="/{{language}}#map">
+        <dl>
+            {{ wtf.form_field(form.source) }}
+            {{ wtf.form_field(form.destination) }}
+            {{ wtf.form_field(form.stairs, oninput="update_label('stairs')", min=1, max=3) }}
+            {{ wtf.form_field(form.slopes, oninput="update_label('slopes')", min=1, max=3) }}
+            {{ wtf.form_field(form.safety, oninput="update_label('safety')", min=1, max=3) }}
+            {{ wtf.form_field(form.com_parks) }}
+            {{ wtf.form_field(form.sport_parks) }}
+            {{ wtf.form_field(form.sport_route) }}
+            {{ wtf.form_field(form.route_km, oninput="update_label('route_km')", min=0, max=30, step=0.1) }}
+            {{ wtf.form_field(form.submit) }}
+        </dl>
+    </form>
+</div>
+<div id="map" class="container embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="{{route_string}}" allowfullscreen></iframe>
+</div>
+<div id="about" class="container" style="width: 75%">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-center" style="margin-top: 80px">
+        {% if language == 'en' %}
+        About
+        {% elif language == 'he' %}
+        אודות
+        {% elif language == 'ar' %}
+        حول
+        {% elif language == 'ru' %}
+        O
+        {% endif %}
+    </h3>
+    {% if language == 'en' %}
+    This site is the product of a project in the Technion's Intelligent and Interactive Systems course. This site was also content to be in the chatbot version on WhatsApp, but this was impossible because it had to be paid for. This site will provide a solution for residents / visitors to Hadar so that they can plan an optimal walking route for them according to their needs.
+    {% elif language == 'he' %}
+    אתר זה הוא תוצר של פרוייקט בקורס מערכות נבונות ואינטרקטיביות בטכניון. אתר זה היה מתוכן להיות גם בגרסת צ'אט בוט בוואצפ, אך דבר זה היה בלתי אפשרי מכיוון שהיה צריך לשלם על כך. אתר זה עתיד לתת מענה לתושבים \ מבקרים בהדר על מנת שיוכלו לתכנן מסלול רגלי מיטבי עבורם על פי הצרכים שלהם.
+    {% elif language == 'ar' %}
+    هذا الموقع هو نتاج مشروع في دورة الأنظمة الذكية والتفاعلية في التخنيون. كان هذا الموقع أيضًا محتوى ليكون في إصدار chatbot على WhatsApp ، لكن هذا كان مستحيلًا لأنه كان لا بد من دفع ثمنه. سيوفر هذا الموقع حلاً للمقيمين / زوار حضر حتى يتمكنوا من تخطيط طريق المشي الأمثل لهم وفقًا لاحتياجاتهم.
+    {% elif language == 'ru' %}
+    Этот сайт является продуктом проекта курса «Интеллектуальные и интерактивные системы Техниона». Этот сайт также должен был быть в версии чат-бота в WhatsApp, но это было невозможно, потому что за него нужно было платить. Этот сайт предоставит решение для жителей / посетителей Хадара, чтобы они могли спланировать для них оптимальный пешеходный маршрут в соответствии со своими потребностями.
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{super()}}
+<script>
+    function update_label(field_name) {
+        {% if language == 'en' %}
+        var value_dict = {
+            'stairs': {3: "Not a chance I'm going up a single step!",
+                            2: "Stairs are OK",
+                            1: "The shortest path is the best"},
+            'slopes': {3: "Why would I decide to get punished?",
+                            2: "Slopes are OK",
+                            1: "The shortest path is the best!"},
+            'safety': {3: "Please, bring me home safely!",
+                            2: "Safety is preferred",
+                            1: "The shortest path is the best"}
+        }
+        var field_translation = {'stairs': 'Stairs', 'slopes': 'Slopes', 'safety': 'Safety', 'route_km': 'Route Length (km)'}
+        {% elif language == 'he' %}
+        var value_dict = {
+            'stairs': {3: 'אין סיכוי שאני עולה במדרגות',
+                              2: 'מדרגות זה אחלה',
+                              1: 'המסלול הקצר ביותר הוא המועדף'},
+            'slopes': {3: 'אין סיכוי שאני נפרד מהמישור',
+                              2: 'שיפועים זה אחלה',
+                              1: 'המסלול הקצר ביותר הוא המועדף'},
+            'safety': {3: 'הכי חשוב לי להגיע בבטחה ליעד שלי',
+                              2: 'מעדיף להגיע בבטחה ליעד',
+                              1: 'המסלול הקצר ביותר הוא המועדף'}
+        }
+        var field_translation = {'stairs': 'מדרגות', 'slopes': 'שיפועים', 'safety': 'בטיחות', 'route_km': 'אורך המסלול (ק"מ)'}
+        {% elif language == 'ar' %}
+        var value_dict = {
+            'stairs': {3: "لا توجد فرصة أن أصعد الدرج",
+                            2: "الدرج على ما يرام",
+                            1: "أقصر طريق هو الأفضل"},
+            'slopes': {3: "أفضّل عدم الانفصال عن السهل",
+                            2: "المنحدرات لا بأس بها",
+                            1: "أقصر طريق هو الأفضل"},
+            'safety': {3: "هم شيء بالنسبة لي هو الوصول إلى وجهتي بأمان",
+                            2: "يفضل السلامة",
+                            1: "أقصر طريق هو الأفضل"}
+        }
+        var field_translation = {'stairs': 'درج', 'slopes': 'المنحدرات', 'safety': 'أمان', 'route_km': 'طول الطريق (كم)'}
+        {% elif language == 'ru' %}
+        {% endif %}
+        value = $('#' + field_name).val();
+        if (field_name == 'route_km')
+            label = field_translation[field_name] + ': ' + value
+        else
+            label = field_translation[field_name] + ': ' + value_dict[field_name][value]
+        $('label[for=' + field_name + ']').html(label);
+    }
+    update_label('stairs');
+    update_label('slopes');
+    update_label('safety');
+    update_label('route_km');
+    $('#route_km').parent().toggle($('#sport_route').checked);
+    $('#destination').parent().toggle(!$('#sport_route').checked);
+    $('#sport_route').attr('onclick', "$('#route_km').parent().toggle(); $('#destination').parent().toggle();");
+    {% if language == 'en' %}
+    $('#source').attr('placeholder', 'Start')
+    $('#destination').attr('placeholder', 'Destination')
+    $('#com_parks').parent().html($('#com_parks').parent().html() + "I'm interested in walking through a community park/garden");
+    $('#sport_parks').parent().html($('#sport_parks').parent().html() + "I'm interested in walking through a sports park");
+    $('#sport_route').parent().html($('#sport_route').parent().html() + "I'm interested in a workout route");
+    $('#submit').val('Calculate route');
+    {% elif language == 'he' %}
+    $('#source').attr('placeholder', 'התחלה')
+    $('#destination').attr('placeholder', 'יעד')
+    $('#com_parks').parent().html($('#com_parks').parent().html() + '-- אני מעוניין לעבור בפארק ציבורי בדרך');
+    $('#sport_parks').parent().html($('#sport_parks').parent().html() + '-- אני מעוניין לעבור בפארק מתקני כושר בדרך');
+    $('#sport_route').parent().html($('#sport_route').parent().html() + '-- אני מעוניין במסלול ספורט');
+    $('#submit').val('מצא לי מסלול');
+    {% elif language == 'ar' %}
+    $('#source').attr('placeholder', 'نقطة البداية')
+    $('#destination').attr('placeholder', 'نقطة الوجهة')
+    $('#com_parks').parent().html($('#com_parks').parent().html() + '-- سأكون سعيدًا جدًا بالمرور في متنزه خلال الطريق');
+    $('#sport_parks').parent().html($('#sport_parks').parent().html() + '-- سأكون سعيدًا جدًا بالمرور في مرافق اللياقة العامة');
+    $('#sport_route').parent().html($('#sport_route').parent().html() + '-- أنا مهتم بالتخطيط لمسار للتدريب الرياضي');
+    $('#submit').val('احسب الطريق');
+    {% elif language == 'ru' %}
+    {% endif %}
+
+
+
+</script>
+{% endblock %}
+
+</html>

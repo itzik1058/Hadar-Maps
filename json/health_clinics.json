@@ -1,0 +1,195 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "ObjectID" : "ObjectID",
+    "Status" : "Status",
+    "USER_Kupat_Holim" : "קופת חולים",
+    "USER_Address" : "כתובת",
+    "USER_City" : "עיר",
+    "USER_Type" : "סוג"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "ObjectID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "ObjectID"
+    },
+    {
+      "name" : "Status",
+      "type" : "esriFieldTypeString",
+      "alias" : "Status",
+      "length" : 1
+    },
+    {
+      "name" : "USER_Kupat_Holim",
+      "type" : "esriFieldTypeString",
+      "alias" : "קופת חולים",
+      "length" : 255
+    },
+    {
+      "name" : "USER_Address",
+      "type" : "esriFieldTypeString",
+      "alias" : "כתובת",
+      "length" : 255
+    },
+    {
+      "name" : "USER_City",
+      "type" : "esriFieldTypeString",
+      "alias" : "עיר",
+      "length" : 255
+    },
+    {
+      "name" : "USER_Type",
+      "type" : "esriFieldTypeString",
+      "alias" : "סוג",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מאוחדת",
+        "USER_Address" : "חסן שוקרי 5",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 34.998539982000068,
+        "y" : 32.814219996000077
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מאוחדת",
+        "USER_Address" : "יל\"ג 13",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 35.003329988000075,
+        "y" : 32.806400015000065
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מאוחדת",
+        "USER_Address" : "ארלוזורוב 11",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 35.00089999100004,
+        "y" : 32.806389999000032
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "לאומית",
+        "USER_Address" : "י.ל. פרץ 14",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 34.995640011000035,
+        "y" : 32.815180017000046
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "לאומית",
+        "USER_Address" : "חורי 2-6",
+        "USER_City" : "חיפה",
+        "USER_Type" : "מרפאה ראשית"
+      },
+      "geometry" : {
+        "x" : 34.997280014000069,
+        "y" : 32.815350002000059
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מכבי",
+        "USER_Address" : "הרצל 73",
+        "USER_City" : "חיפה",
+        "USER_Type" : "מרפאה ראשית"
+      },
+      "geometry" : {
+        "x" : 35.001959966000072,
+        "y" : 32.806800000000067
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מכבי",
+        "USER_Address" : "הנגב 12",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 35.004232001000048,
+        "y" : 32.802978205000045
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "מכבי",
+        "USER_Address" : "השילוח 5",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 35.000720031000071,
+        "y" : 32.80399998300004
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "כללית",
+        "USER_Address" : "גאולה 8",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 34.998780040000042,
+        "y" : 32.803979992000052
+      }
+    },
+    {
+      "attributes" : {
+        "ObjectID" : null,
+        "Status" : null,
+        "USER_Kupat_Holim" : "כללית",
+        "USER_Address" : "אבן סינא 8",
+        "USER_City" : "חיפה",
+        "USER_Type" : null
+      },
+      "geometry" : {
+        "x" : 34.997389985000041,
+        "y" : 32.813649984000051
+      }
+    }
+  ]
+}
